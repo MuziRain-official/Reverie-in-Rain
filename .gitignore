@@ -1,3 +1,6 @@
+# 旧工程目录（工程已上移到仓库根，此目录仅剩运行中 Unity 锁定的缓存，关掉 Unity 后可删除）
+/Reverie in Rain/
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
