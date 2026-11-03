@@ -84,4 +84,7 @@ public class EventCenter : Singleton<EventCenter>
         // owner == null 表示「退订任意 owner 的该回调」；owner 非 null 时精确匹配
         list.RemoveAll(s => s.Callback == cb && (owner == null || s.Owner == owner));
     }
+
+    /// <summary>释放时清空订阅表，避免残留回调在模块释放后被派发。</summary>
+    protected override void OnRelease() => _subs.Clear();
 }
