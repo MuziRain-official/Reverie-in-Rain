@@ -2,7 +2,8 @@
     "name": "GameFramework.Runtime",
     "rootNamespace": "Reverie.Framework",
     "references": [
-        "GameFramework.Core"
+        "GameFramework.Core",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
