@@ -1,6 +1,6 @@
 {
     "name": "GameFramework.Core",
-    "rootNamespace": "",
+    "rootNamespace": "Reverie.Framework",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -10,5 +10,5 @@
     "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": true
 }

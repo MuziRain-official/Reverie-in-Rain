@@ -1,6 +1,6 @@
 {
     "name": "Game",
-    "rootNamespace": "",
+    "rootNamespace": "Reverie.Game",
     "references": [
         "GameFramework.Core",
         "GameFramework.Runtime"

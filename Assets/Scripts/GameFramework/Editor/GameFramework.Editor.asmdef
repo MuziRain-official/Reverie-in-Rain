@@ -1,6 +1,6 @@
 {
     "name": "GameFramework.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Reverie.Framework.Editor",
     "references": [
         "GameFramework.Core",
         "GameFramework.Runtime"

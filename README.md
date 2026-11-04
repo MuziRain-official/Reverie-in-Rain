@@ -263,7 +263,7 @@ Assets/
 │   │   ├── Core/                     # ── 程序集 GameFramework.Core ──
 │   │   │   ├── GameFramework.Core.asmdef
 │   │   │   ├── Singleton/            # 单例基类
-│   │   │   ├── Log/                  # 日志
+│   │   │   ├── Log/                  # 日志（ILogSink 输出端抽象）
 │   │   │   ├── Utils/                # 通用工具（数学/随机/扩展/协程辅助）
 │   │   │   ├── Event/                # 事件中心
 │   │   │   ├── FSM/                  # 泛型状态机
@@ -274,7 +274,8 @@ Assets/
 │   │   ├── Runtime/                  # ── 程序集 GameFramework.Runtime ──
 │   │   │   ├── GameFramework.Runtime.asmdef
 │   │   │   ├── Singleton/            # MonoBehaviour 单例基类
-│   │   │   ├── GameEntry/            # 全局入口、生命周期装配
+│   │   │   ├── Log/                  # UnityLogSink（UnityEngine 日志输出端）
+│   │   │   ├── GameEntry/            # 全局入口、生命周期装配、逐帧驱动
 │   │   │   ├── Resource/             # 资源（AssetBundle）
 │   │   │   ├── HotUpdate/            # 热更
 │   │   │   ├── Pool/                 # 对象池
@@ -337,5 +338,43 @@ Game ──► GameFramework.Runtime ──► GameFramework.Core ──► Unit
 - [x] 框架模块划分与职责说明
 - [x] 项目文件结构（文件夹骨架）
 - [x] Unity 程序集骨架（asmdef）
-- [ ] P0 模块实现
+- [x] P0 已落地：单例、日志与工具、事件中心、状态机、IModule + GameEntry（统一生命周期）
+- [x] 统一命名空间 `Reverie.Framework`，asmdef `rootNamespace` 同步
+- [x] Core 编译期隔离 UnityEngine（`noEngineReferences: true`），日志走 `ILogSink` 注入
+- [x] GameEntry 逐帧驱动（`IUpdateModule`）
+- [ ] P0 其余模块实现
+- [ ] `GameFramework.Core.Tests` EditMode 单测
 - [ ] 接入业务层验证
+
+## 9. 已知问题与技术债
+
+> 记录已核对源码确认的问题，按「是否当前触发」分级。仅供开发期自查，修复后请更新状态。
+
+### 9.1 当前缺陷（建议尽快修）
+
+| 编号 | 模块 | 现象 | 影响 | 修法 |
+|-|-|-|-|-|
+| EVT-1 ✅ | 事件中心 | 派发过程中退订「排在当前监听者前面（尚未执行）」的订阅者时，原倒序循环 + `RemoveAll` 使列表前移，`i--` 后同一回调被再次执行 | 典型于回调中同步关闭更早创建的面板、状态切出时统一退订等**同步清理**场景，可能重复触发回调（重复伤害/掉落）。注意：单纯 `Destroy` 对象不会触发（`OnDestroy` 延迟到帧末） | 已修：派发前对订阅列表拍摄快照再遍历，派发期间的增删从下一次生效 |
+| EVT-2 ✅ | 事件中心 | 订阅 `Action<int>` 却发布 `float` 时，`as Action<T>` 转 null 被静默跳过 | 「事件没反应」类问题难以排查 | 已修：订阅/发布时记录事件名对应的参数类型，同名事件类型不一致即 `Log.Error`；派发时列表非空却无回调匹配也报错 |
+| EVT-4 ✅ | 事件中心 | EVT-2 只校验订阅侧，`Publish<T>` 不校验签名，同名异型**发布**仍静默返回、无任何日志 | 发布方写错参数类型时事件「静默失效」，难排查 | 已修：订阅与发布共用 `CheckSignature`，事件名首次出现即登记参数类型，之后不一致一律 `Log.Error` 并中止 |
+| LOG-1 ✅ | 日志 | `MuteAllChannels()` 实现为清空静音集合，实际效果是「取消全部静音」，与命名相反 | 想一键静音刷屏时反而全部放开 | 已修：改名 `UnmuteAllChannels`（取消所有频道静音）；新增 `MuteAll` / `UnmuteAll` 全局静音开关，静音时 Error 仍输出 |
+
+- **EVT-3（次要语义）**：`Unsubscribe(name, cb)` 不传 owner 时会移除该回调的**所有 owner** 订阅（非仅全局订阅），使用时需注意。
+
+### 9.2 潜在风险（当前不触发，模块增多后会出现）
+
+| 编号 | 模块 | 现象 | 触发条件 | 修法 |
+|-|-|-|-|-|
+| SGL-1 ✅ | 单例 | `Instance` 兜底 `new T()` 但不初始化，入口初始化前被访问会拿到未 Init 的实例且无提示 | 有静态初始化在 GameEntry 引导前触碰模块 | 已修：首次兜底 `new` 时输出一次 `Log.Warn`（按模块去重，`Destroy()` 复位），开发期即可暴露时序问题 |
+| SGL-2 | 单例 / 日志 | 关闭 Domain Reload（Enter Play Mode Options）后，`_instance`、日志级别与静音集合跨 Play 残留 | 在 Editor Settings 关闭 Reload Domain 时 | 各基类加 `[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]` 复位静态字段 |
+| MONO-1 ✅ | MonoBehaviour 单例 | `Instance` 访问即 `FindFirstObjectByType` + 自动 `AddComponent` 自初始化；`Awake` 无条件 `DontDestroyOnLoad` | 出现 UI / 音频 / 房间等 MonoBehaviour 服务，且被入口前访问或不应跨场景常驻 | 已修：新增 `AutoInit` / `DontDestroyOnLoadEnabled` 两个 `protected virtual` 开关，子类按需覆写（默认均为 true，保持入口行为） |
+
+> 说明：SGL-2 当前工程 `ProjectSettings/EditorSettings.asset` 中 `m_EnterPlayModeOptions = 0`（域重载开启），静态字段会正常复位，故暂不触发；若后续为提速关闭域重载，须先补复位。
+
+### 9.3 设计缺口（非缺陷，记录以免遗忘）
+
+- **GameEntry 驱动** ✅：已补 `Update` 入口——模块实现 `IUpdateModule { void Tick(float dt); }` 后，注册进入口即可被逐帧统一驱动，模块自身不再各写 `Update`。
+- **注册能力** ✅：`Add<T>` 仍仅接受 `Singleton<T>`（`Create()` 内部完成 Init）；MonoBehaviour 等模块走 `Register(IModule)`，由模块自身 `AutoInit` 负责初始化，入口只负责登记、驱动与逆序释放。
+- **命名空间** ✅：框架类已统一置于 `Reverie.Framework`（Editor 为 `Reverie.Framework.Editor`，业务为 `Reverie.Game`），asmdef 的 `rootNamespace` 同步设置。
+- **Core 引擎隔离** ✅：`GameFramework.Core.asmdef` 现设 `noEngineReferences: true`，编译期强制 Core 不依赖 UnityEngine。日志改为 `ILogSink` 抽象，`UnityLogSink` 位于 Runtime 并由 `GameEntry` 在初始化时注入（注入前日志静默丢弃）。
+- **测试程序集**：尚未建立 `GameFramework.Core.Tests`；Core 现已可脱离引擎编译，EditMode 单测的编译前提已满足，待补。
