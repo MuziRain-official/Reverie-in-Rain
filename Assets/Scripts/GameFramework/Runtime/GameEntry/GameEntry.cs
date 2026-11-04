@@ -22,9 +22,12 @@ namespace Reverie.Framework
         {
             Log.SetSink(UnityLogSink.Instance);   // 日志最先就绪，后续模块的报错才可见
 
-            // 启动顺序：日志 → 事件中心 → ……（按 README 第 5 节逐层补全）
+            // 启动顺序：日志 → 事件中心 → 计时器 → 全局数据 → 配置 → ……（按 README 第 5 节逐层补全）
             _modules.Add(Log.Create());
             _modules.Add(EventCenter.Create());
+            _modules.Add(Timer.Create());
+            _modules.Add(GameContext.Create());
+            _modules.Add(Config.Create());
         }
 
         protected override void OnRelease()
