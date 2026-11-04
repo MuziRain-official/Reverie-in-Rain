@@ -388,7 +388,7 @@ Game ──► GameFramework.Runtime ──► GameFramework.Core ──► Unit
 ### 9.3 设计缺口（非缺陷，记录以免遗忘）
 
 - **GameEntry 驱动** ✅：已补 `Update` 入口——模块实现 `IUpdateModule { void Tick(float dt); }` 后，注册进入口即可被逐帧统一驱动，模块自身不再各写 `Update`。
-- **注册能力** ✅：`Add<T>` 仍仅接受 `Singleton<T>`（`Create()` 内部完成 Init）；MonoBehaviour 等模块走 `Register(IModule)`，由模块自身 `AutoInit` 负责初始化，入口只负责登记、驱动与逆序释放。
+- **注册方式** ✅：`GameEntry.Init` 里一行 `_modules.Add(Xxx.Create())` 即完成注册与初始化；实现 `IUpdateModule` 的模块自动被逐帧驱动。暂不支持 MonoBehaviour 模块，等 UI / 相机等真正需要时再加注册入口。
 - **命名空间** ✅：框架类已统一置于 `Reverie.Framework`（Editor 为 `Reverie.Framework.Editor`，业务为 `Reverie.Game`），asmdef 的 `rootNamespace` 同步设置。
 - **Core 引擎隔离** ✅：`GameFramework.Core.asmdef` 现设 `noEngineReferences: true`，编译期强制 Core 不依赖 UnityEngine。日志改为 `ILogSink` 抽象，`UnityLogSink` 位于 Runtime 并由 `GameEntry` 在初始化时注入（注入前日志静默丢弃）。
 - **测试程序集**：尚未建立 `GameFramework.Core.Tests`；Core 现已可脱离引擎编译，EditMode 单测的编译前提已满足，待补。

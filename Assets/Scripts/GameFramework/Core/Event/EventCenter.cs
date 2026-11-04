@@ -4,31 +4,30 @@ using System.Collections.Generic;
 namespace Reverie.Framework
 {
     /// <summary>
-    /// 事件中心：模块之间通过事件名（字符串）通信的总线。
-    /// 支持订阅、发布、退订，分为不带参和带参两种事件。
+    /// 事件中心：以事件名（字符串）为 key 的订阅/发布总线。
+    /// 同一事件名可同时有带参和不带参的订阅者，发布时按回调类型各发各的。
     ///
-    /// 用法：
     ///   var e = EventCenter.Instance;
-    ///   e.Subscribe("Hurt", OnHurt);                  // 不带参
-    ///   e.Subscribe&lt;int&gt;("Hurt", OnHurtInt);          // 带参
-    ///   e.Publish("Hurt");                            // 只通知不带参的订阅者
-    ///   e.Publish("Hurt", 10);                        // 只通知 Action&lt;int&gt; 的订阅者
-    ///   e.Unsubscribe("Hurt", OnHurt);                // 按回调退订
-    ///   e.Subscribe(this, OnHurt);                    // 带 owner 订阅
-    ///   e.UnsubscribeAll(this);                       // 对象销毁时统一退订
+    ///   e.Subscribe("Hurt", OnHurt);             // 不带参
+    ///   e.Subscribe&lt;int&gt;("Hurt", OnHurtInt);     // 带参
+    ///   e.Publish("Hurt");                       // 只通知 Action 订阅者
+    ///   e.Publish("Hurt", 10);                   // 只通知 Action&lt;int&gt; 订阅者
+    ///   e.Unsubscribe("Hurt", OnHurt);           // 按回调退订
+    ///   e.Subscribe(this, OnHurt);               // 带 owner
+    ///   e.UnsubscribeAll(this);                  // 对象销毁时统一退订
     ///
-    /// 约定：同一个事件名的带参订阅只使用一种参数类型（不要同名又发 int 又发 float）。
+    /// 约定：同一事件名的带参订阅只用一种参数类型。
     /// </summary>
     public class EventCenter : Singleton<EventCenter>
     {
-        // 一条订阅记录：Owner 记录订阅者对象（可为 null），Callback 是用户传进来的回调方法。
+        // 一条订阅：Owner 为订阅者（可为 null），Callback 为回调方法。
         private struct Subscription
         {
             public object Owner;
             public Delegate Callback;
         }
 
-        // 事件名 -> 订阅列表。带参和不带参的订阅都放在同一个列表里，发布时按类型筛选。
+        // 事件名 -> 订阅列表；带参与不带参混存，发布时按类型筛选。
         private readonly Dictionary<string, List<Subscription>> _events = new();
 
         // ============ 订阅 ============
@@ -43,7 +42,7 @@ namespace Reverie.Framework
         public void Unsubscribe(string name, Action callback) => Remove(name, callback);
         public void Unsubscribe<T>(string name, Action<T> callback) => Remove(name, callback);
 
-        /// <summary>退订某个 owner 的全部事件（对象销毁时调用，避免回调泄漏）。</summary>
+        /// <summary>退订某个 owner 的全部事件（对象销毁时调用）。</summary>
         public void UnsubscribeAll(object owner)
         {
             if (owner == null) return;
@@ -109,7 +108,7 @@ namespace Reverie.Framework
             list.RemoveAll(s => s.Callback == callback);
         }
 
-        /// <summary>释放时清空订阅表，避免残留回调在模块释放后被派发。</summary>
+        /// <summary>释放时清空订阅表。</summary>
         protected override void OnRelease() => _events.Clear();
     }
 }
