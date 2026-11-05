@@ -110,3 +110,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# 美术包自带的预览动图 / Aseprite 源文件，Unity 不导入，不需要进版本库
+*.gif
+*.aseprite
+
+# MCP 工具联调用的临时资源
+/[Aa]ssets/DSH_MCP_Test/
+/[Aa]ssets/DSH_MCP_Test.meta
