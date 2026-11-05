@@ -118,3 +118,10 @@ InitTestScene*.unity*
 # MCP 工具联调用的临时资源
 /[Aa]ssets/DSH_MCP_Test/
 /[Aa]ssets/DSH_MCP_Test.meta
+
+# 已被忽略的源文件（.gif/.aseprite）由 Unity 生成的 meta，同样不提交
+*.gif.meta
+*.aseprite.meta
+
+# 沙箱诊断脚本与报告（本地临时）
+/.dsh-acl-recovery/
