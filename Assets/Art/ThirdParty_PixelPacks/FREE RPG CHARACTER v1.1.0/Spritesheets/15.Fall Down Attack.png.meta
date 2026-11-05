@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 7b9d9721d50430e4789c232662117f44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1267043199764597120
+    second: 15.Fall Down Attack_0
+  - first:
+      213: 3332467416288868852
+    second: 15.Fall Down Attack_1
+  - first:
+      213: -4230372461695951003
+    second: 15.Fall Down Attack_2
+  - first:
+      213: -8835948130273765932
+    second: 15.Fall Down Attack_3
+  - first:
+      213: 1618001081031511101
+    second: 15.Fall Down Attack_4
+  - first:
+      213: 3172175635141901256
+    second: 15.Fall Down Attack_5
+  - first:
+      213: 1438416400445050174
+    second: 15.Fall Down Attack_6
+  - first:
+      213: 4581823172985736035
+    second: 15.Fall Down Attack_7
+  - first:
+      213: 6665744293130490134
+    second: 15.Fall Down Attack_8
+  - first:
+      213: 4167192415781027640
+    second: 15.Fall Down Attack_9
+  - first:
+      213: -1383333871194078132
+    second: 15.Fall Down Attack_10
+  - first:
+      213: -459045463461765608
+    second: 15.Fall Down Attack_11
+  - first:
+      213: -2475717890182517527
+    second: 15.Fall Down Attack_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1023
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086f4f24cee8a6ee0800000000000000
+      internalID: -1267043199764597120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 863
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9367d757d4f3e20800000000000000
+      internalID: 3332467416288868852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 711
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9409d8a2ba45c0800000000000000
+      internalID: -4230372461695951003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 524
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d551498df7606580800000000000000
+      internalID: -8835948130273765932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 369
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc411296b447610800000000000000
+      internalID: 1618001081031511101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 388
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb38c9eee4d50c20800000000000000
+      internalID: 3172175635141901256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 364
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8f9b581846f310800000000000000
+      internalID: 1438416400445050174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 227
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc77976e7e59f30800000000000000
+      internalID: 4581823172985736035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61151a33e1b718c50800000000000000
+      internalID: 6665744293130490134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 226
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f74556c67d4d930800000000000000
+      internalID: 4167192415781027640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4406b16c296dcce0800000000000000
+      internalID: -1383333871194078132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e5b96459421a9f0800000000000000
+      internalID: -459045463461765608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15.Fall Down Attack_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec679f12bb74add0800000000000000
+      internalID: -2475717890182517527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      15.Fall Down Attack_0: -1267043199764597120
+      15.Fall Down Attack_1: 3332467416288868852
+      15.Fall Down Attack_10: -1383333871194078132
+      15.Fall Down Attack_11: -459045463461765608
+      15.Fall Down Attack_12: -2475717890182517527
+      15.Fall Down Attack_2: -4230372461695951003
+      15.Fall Down Attack_3: -8835948130273765932
+      15.Fall Down Attack_4: 1618001081031511101
+      15.Fall Down Attack_5: 3172175635141901256
+      15.Fall Down Attack_6: 1438416400445050174
+      15.Fall Down Attack_7: 4581823172985736035
+      15.Fall Down Attack_8: 6665744293130490134
+      15.Fall Down Attack_9: 4167192415781027640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

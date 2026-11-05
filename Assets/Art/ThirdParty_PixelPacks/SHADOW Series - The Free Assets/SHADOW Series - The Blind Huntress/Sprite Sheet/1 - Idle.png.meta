@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: e533812eef05de146911793f7f8cef23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2620140961803790634
+    second: 1 - Idle_0
+  - first:
+      213: -933335393280727381
+    second: 1 - Idle_1
+  - first:
+      213: -3584110853964255466
+    second: 1 - Idle_2
+  - first:
+      213: -6190998751395373036
+    second: 1 - Idle_3
+  - first:
+      213: 2448587634895324678
+    second: 1 - Idle_4
+  - first:
+      213: -1860598444820186492
+    second: 1 - Idle_5
+  - first:
+      213: 3604218316797256594
+    second: 1 - Idle_6
+  - first:
+      213: 8456192475611697591
+    second: 1 - Idle_7
+  - first:
+      213: -2496496897987768899
+    second: 1 - Idle_8
+  - first:
+      213: -5861139887533467072
+    second: 1 - Idle_9
+  - first:
+      213: 6449770197716019476
+    second: 1 - Idle_10
+  - first:
+      213: 9120629407942889899
+    second: 1 - Idle_11
+  - first:
+      213: 3226675414286874729
+    second: 1 - Idle_00
+  - first:
+      213: 1669221959796735791
+    second: BlindHuntress_Idle_00
+  - first:
+      213: 7049827373508771898
+    second: BlindHuntress_Idle_01
+  - first:
+      213: -8210852236132070049
+    second: BlindHuntress_Idle_02
+  - first:
+      213: 1243483695090150068
+    second: BlindHuntress_Idle_03
+  - first:
+      213: -5138154878618748176
+    second: BlindHuntress_Idle_04
+  - first:
+      213: 36235759381857671
+    second: BlindHuntress_Idle_05
+  - first:
+      213: -319454943278435873
+    second: BlindHuntress_Idle_06
+  - first:
+      213: 2903537629576315135
+    second: BlindHuntress_Idle_07
+  - first:
+      213: 8632045036333243071
+    second: BlindHuntress_Idle_08
+  - first:
+      213: -615949980823000314
+    second: BlindHuntress_Idle_09
+  - first:
+      213: 5154369904918801476
+    second: BlindHuntress_Idle_10
+  - first:
+      213: 5803089328803578923
+    second: BlindHuntress_Idle_11
+  - first:
+      213: 4522427357083412522
+    second: BlindHuntress_Idle_12
+  - first:
+      213: -2926468870703295984
+    second: BlindHuntress_Idle_13
+  - first:
+      213: 4196929214961429398
+    second: BlindHuntress_Idle_14
+  - first:
+      213: 6555804356184015795
+    second: BlindHuntress_Idle_15
+  - first:
+      213: -3322894355373257669
+    second: BlindHuntress_Idle_16
+  - first:
+      213: -2300611935860234935
+    second: BlindHuntress_Idle_17
+  - first:
+      213: -5526669013685430308
+    second: BlindHuntress_Idle_18
+  - first:
+      213: -8878058720981768977
+    second: BlindHuntress_Idle_19
+  - first:
+      213: -5787217707844226311
+    second: BlindHuntress_Idle_20
+  - first:
+      213: 5461560666242220714
+    second: BlindHuntress_Idle_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f37fc47844a2710800000000000000
+      internalID: 1669221959796735791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30c0d505a406d160800000000000000
+      internalID: 7049827373508771898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d402ae4613d0e80800000000000000
+      internalID: -8210852236132070049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa6d915ddb14110800000000000000
+      internalID: 1243483695090150068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3dfa6c5b91b8b0800000000000000
+      internalID: -5138154878618748176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7854f1e2b3cb08000800000000000000
+      internalID: 36235759381857671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17520fb61119bf0800000000000000
+      internalID: -319454943278435873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff040ea27107b4820800000000000000
+      internalID: 2903537629576315135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba11dbd93f2bc770800000000000000
+      internalID: 8632045036333243071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_09
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be2a181c4b377f0800000000000000
+      internalID: -615949980823000314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c26a79e10088740800000000000000
+      internalID: 5154369904918801476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24823b9ff6b88050800000000000000
+      internalID: 5803089328803578923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28277d68b3e2ce30800000000000000
+      internalID: 4522427357083412522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012dd7331181367d0800000000000000
+      internalID: -2926468870703295984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2c3d72ec7e3a30800000000000000
+      internalID: 4196929214961429398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38e4be355eafa50800000000000000
+      internalID: 6555804356184015795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c83d17035b2e1d0800000000000000
+      internalID: -3322894355373257669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e60d22a59210e0800000000000000
+      internalID: -2300611935860234935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd71f1840d35d43b0800000000000000
+      internalID: -5526669013685430308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a2d891accac480800000000000000
+      internalID: -8878058720981768977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2381e182cafafa0800000000000000
+      internalID: -5787217707844226311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindHuntress_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa20d964d7c5bcb40800000000000000
+      internalID: 5461560666242220714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1 - Idle_0: 2620140961803790634
+      1 - Idle_00: 3226675414286874729
+      1 - Idle_1: -933335393280727381
+      1 - Idle_10: 6449770197716019476
+      1 - Idle_11: 9120629407942889899
+      1 - Idle_2: -3584110853964255466
+      1 - Idle_3: -6190998751395373036
+      1 - Idle_4: 2448587634895324678
+      1 - Idle_5: -1860598444820186492
+      1 - Idle_6: 3604218316797256594
+      1 - Idle_7: 8456192475611697591
+      1 - Idle_8: -2496496897987768899
+      1 - Idle_9: -5861139887533467072
+      BlindHuntress_Idle_00: 1669221959796735791
+      BlindHuntress_Idle_01: 7049827373508771898
+      BlindHuntress_Idle_02: -8210852236132070049
+      BlindHuntress_Idle_03: 1243483695090150068
+      BlindHuntress_Idle_04: -5138154878618748176
+      BlindHuntress_Idle_05: 36235759381857671
+      BlindHuntress_Idle_06: -319454943278435873
+      BlindHuntress_Idle_07: 2903537629576315135
+      BlindHuntress_Idle_08: 8632045036333243071
+      BlindHuntress_Idle_09: -615949980823000314
+      BlindHuntress_Idle_10: 5154369904918801476
+      BlindHuntress_Idle_11: 5803089328803578923
+      BlindHuntress_Idle_12: 4522427357083412522
+      BlindHuntress_Idle_13: -2926468870703295984
+      BlindHuntress_Idle_14: 4196929214961429398
+      BlindHuntress_Idle_15: 6555804356184015795
+      BlindHuntress_Idle_16: -3322894355373257669
+      BlindHuntress_Idle_17: -2300611935860234935
+      BlindHuntress_Idle_18: -5526669013685430308
+      BlindHuntress_Idle_19: -8878058720981768977
+      BlindHuntress_Idle_20: -5787217707844226311
+      BlindHuntress_Idle_21: 5461560666242220714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

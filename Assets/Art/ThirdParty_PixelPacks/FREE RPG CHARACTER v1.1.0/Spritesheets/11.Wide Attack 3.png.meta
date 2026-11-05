@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: ef41647d333522e499b06d2af6de0669
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8163605683817467045
+    second: 11.Wide Attack 3_0
+  - first:
+      213: 9133187678582646146
+    second: 11.Wide Attack 3_1
+  - first:
+      213: -1648040646040586111
+    second: 11.Wide Attack 3_2
+  - first:
+      213: 3585365157620047693
+    second: 11.Wide Attack 3_3
+  - first:
+      213: 2357725684235398867
+    second: 11.Wide Attack 3_4
+  - first:
+      213: 5230079811227505597
+    second: 11.Wide Attack 3_5
+  - first:
+      213: -5017015201007321336
+    second: 11.Wide Attack 3_6
+  - first:
+      213: -1552079985153657908
+    second: 11.Wide Attack 3_7
+  - first:
+      213: -2972453213369074429
+    second: 11.Wide Attack 3_8
+  - first:
+      213: -8449344525252716471
+    second: 11.Wide Attack 3_9
+  - first:
+      213: 4636344025336844023
+    second: 11.Wide Attack 3_10
+  - first:
+      213: 7352658608523037274
+    second: 11.Wide Attack 3_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1503
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5accc46ed14fa4170800000000000000
+      internalID: 8163605683817467045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1343
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a4e0ddc99fbe70800000000000000
+      internalID: 9133187678582646146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1183
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188785d93cbf029e0800000000000000
+      internalID: -1648040646040586111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1023
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f51026d96c1c130800000000000000
+      internalID: 3585365157620047693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 863
+        width: 93
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6aae940358b020800000000000000
+      internalID: 2357725684235398867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 703
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3582fc0e9f49840800000000000000
+      internalID: 5230079811227505597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 707
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f3937814bff5ab0800000000000000
+      internalID: -5017015201007321336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 543
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33ced0a77e57ae0800000000000000
+      internalID: -1552079985153657908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dfaa91d89bfb6d0800000000000000
+      internalID: -2972453213369074429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 223
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489b6bbbe5edba80800000000000000
+      internalID: -8449344525252716471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 227
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe05be935a975040800000000000000
+      internalID: 4636344025336844023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11.Wide Attack 3_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 63
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5acbb36c04e90660800000000000000
+      internalID: 7352658608523037274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      11.Wide Attack 3_0: 8163605683817467045
+      11.Wide Attack 3_1: 9133187678582646146
+      11.Wide Attack 3_10: 4636344025336844023
+      11.Wide Attack 3_11: 7352658608523037274
+      11.Wide Attack 3_2: -1648040646040586111
+      11.Wide Attack 3_3: 3585365157620047693
+      11.Wide Attack 3_4: 2357725684235398867
+      11.Wide Attack 3_5: 5230079811227505597
+      11.Wide Attack 3_6: -5017015201007321336
+      11.Wide Attack 3_7: -1552079985153657908
+      11.Wide Attack 3_8: -2972453213369074429
+      11.Wide Attack 3_9: -8449344525252716471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
