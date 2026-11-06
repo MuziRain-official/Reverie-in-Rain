@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: b20b8ff85d9500b4ba0958af98bbc22b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4384075431940049453
+    second: RangeFireBurst_0
+  - first:
+      213: 6716251234798663669
+    second: RangeFireBurst_1
+  - first:
+      213: -7709262360975401513
+    second: RangeFireBurst_2
+  - first:
+      213: 277891133723270266
+    second: RangeFireBurst_3
+  - first:
+      213: 741862001594656978
+    second: RangeFireBurst_4
+  - first:
+      213: 2017560199684765773
+    second: RangeFireBurst_5
+  - first:
+      213: -6224946198895475156
+    second: RangeFireBurst_6
+  - first:
+      213: 6431992000480789557
+    second: RangeFireBurst_7
+  - first:
+      213: -6340112301997695987
+    second: RangeFireBurst_8
+  - first:
+      213: 3579538960932157446
+    second: RangeFireBurst_9
+  - first:
+      213: -1006465915892238123
+    second: RangeFireBurst_10
+  - first:
+      213: 3837166898807728220
+    second: RangeFireBurst_11
+  - first:
+      213: -8124612224037421851
+    second: RangeFireBurst_12
+  - first:
+      213: -9159365094892366603
+    second: RangeFireBurst_13
+  - first:
+      213: -5417622961743256326
+    second: RangeFireBurst_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RangeFireBurst_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d532ba5f92a823c0800000000000000
+      internalID: -4384075431940049453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f370f9eae43d50800000000000000
+      internalID: 6716251234798663669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd95c56ab2330590800000000000000
+      internalID: -7709262360975401513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5ec783844bd300800000000000000
+      internalID: 277891133723270266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e8655f8f9b4a00800000000000000
+      internalID: 741862001594656978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d483d27ef40dffb10800000000000000
+      internalID: 2017560199684765773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26caecc96c8c99a0800000000000000
+      internalID: -6224946198895475156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534cfc275a6034950800000000000000
+      internalID: 6431992000480789557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cd753e3756308a0800000000000000
+      internalID: -6340112301997695987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_9
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608380248b31da130800000000000000
+      internalID: 3579538960932157446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_10
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d874bcf4905802f0800000000000000
+      internalID: -1006465915892238123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_11
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58625bd6fa504530800000000000000
+      internalID: 3837166898807728220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeFireBurst_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf3707a349f3f80800000000000000
+      internalID: -8124612224037421851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RangeFireBurst_0: -4384075431940049453
+      RangeFireBurst_1: 6716251234798663669
+      RangeFireBurst_10: -1006465915892238123
+      RangeFireBurst_11: 3837166898807728220
+      RangeFireBurst_12: -8124612224037421851
+      RangeFireBurst_13: -9159365094892366603
+      RangeFireBurst_14: -5417622961743256326
+      RangeFireBurst_2: -7709262360975401513
+      RangeFireBurst_3: 277891133723270266
+      RangeFireBurst_4: 741862001594656978
+      RangeFireBurst_5: 2017560199684765773
+      RangeFireBurst_6: -6224946198895475156
+      RangeFireBurst_7: 6431992000480789557
+      RangeFireBurst_8: -6340112301997695987
+      RangeFireBurst_9: 3579538960932157446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

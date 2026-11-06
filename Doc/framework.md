@@ -163,12 +163,14 @@
 * `UIManager` 是业务唯一入口，只做转发：`Register` / `Unregister` / `Show` / `Hide` / `HideAll` / `Back` / `IsShowing` / `GetLayer`。
 * 启动时自动创建根 Canvas（ScreenSpaceOverlay，1920×1080 适配，跨场景常驻）与六个层：场景 / HUD / 窗口 / 弹窗 / 提示 / 加载，按此顺序叠放；窗口层与弹窗层是栈式层，其余为平铺层。场景里没有 `EventSystem` 时一并补一个，按钮才能点击。
 * 界面由业务实例化后用 `Register(layer, id, screen)` 登记，登记后自动隐藏并挂到层节点下；`Show` 只按 id 转发，不负责加载预制体，加载仍归 Resource / 业务。
+* ⬜ 按需创建与释放（等有 UI 资源、Scene / Room / GameFlow 落地后再做）：给 `Register` 增加「预制体路径」重载，首次 `Show` 时才加载并实例化该界面，`Hide` 保留实例供下次复用，切场景 / 房间时统一释放（`Unregister` + `Destroy`）。业务调用仍是 `Show(layer, id)`，加载过程收在 `UIManager` 内部；同步加载会卡帧，需要异步版本配合加载层。
+* ⬜ 不预先加载全部界面：常驻只保留当前场景会用到的入口，界面按首次点击逐个创建。
 * 界面基类 `UIScreen` 统一生命周期：`Show`（写入参数 → `OnPropsSet` → `OnShow` → 播进入动画）→ `Hide`（`OnHide` → 播退出动画 → 停用）；子类只覆写这三个钩子，不自己 `SetActive`。打开 / 隐藏完成广播 `ui.shown` / `ui.hidden`，参数为界面 id。
 * 动画是可选的 `ScreenAnim` 组件，留空即直接切换；实现时必须调用 `onFinished`，否则界面不会停用、事件也不会发。连续开关时旧的动画回调会被丢弃，避免退出动画把刚打开的界面关掉。
 * 窗口层的 `Hide` 等同于「返回上一步」：弹栈并恢复上一个窗口（带回它打开时的参数）；面板层则是单纯隐藏。`Back()` 先弹窗后窗口逐层退回，没有可关的界面时返回 false，交给上层流程。
 * `Hide(false)` / `HideAll(false)` 跳过退出动画、立即停用，供切场景与释放时使用。
 * 框架不提供销毁接口：需要回收时先 `Unregister`，再由业务 `Destroy` 界面实例。
-* ⬜ 按 id 自动加载界面预制体、异步打开（加载期间显示加载层）、返回键输入接入、界面池化、Toast 排队、内置淡入淡出 / 缩放动画。
+* ⬜ 返回键输入接入、界面池化（只在改为「关闭即销毁」或同屏大量重复元素时才需要）、Toast 排队、内置淡入淡出 / 缩放动画。
 
 #### 存档（Save）⬜
 
