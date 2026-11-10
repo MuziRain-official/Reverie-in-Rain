@@ -41,7 +41,8 @@
 
 * `Singleton<T>`：纯 C# 进程级单例，实现 `IModule`。由 `GameEntry` 显式 `Create()` 并初始化，`Release()` 释放；`Instance` 在入口前被访问时兜底 `new`（不初始化）并输出一次警告。
 * `MonoSingleton<T>`：MonoBehaviour 单例，`Instance` 访问时自动查找或创建 GameObject，默认常驻场景。子类用 `AutoInit` / `DontDestroyOnLoadEnabled` 开关控制是否自动初始化与跨场景常驻。
-* 待办：若关闭 Domain Reload（Enter Play Mode Options），需为静态字段补复位，当前未实现。
+* 静态复位 ✅：退出播放模式时 Unity 会销毁对象，但不会清空纯 C# 类的静态字段，上一次会话的实例会残留，导致下次 `Create()` 拿到失效的旧对象、`Init` 被跳过。做法很直白——`Singleton<T>` 和 `MonoSingleton<T>` 各加一个 `Reset()`（只丢静态引用，不调 `Release`），`Log` 另有 `ResetSink()` 复位静态输出端；`GameEntry.Bootstrap` 在创建入口前按启动顺序逐行调用一遍。新增模块时在 `GameEntry.ResetSingletons()` 里同步加一行。
+* `MonoSingleton.Awake`：静态引用为空或被销毁时，由场景里的实例接管，不再直接销毁后来者，避免「场景里有实例、`Instance` 却指向 null」。
 
 #### 日志与工具（Log \& Utils）✅
 
@@ -179,20 +180,19 @@
 * 写入用临时文件替换防止崩溃损坏，保留备份槽；设置与进度拆分为独立文件。
 * 存档内容：位置、房间、生命/能量、能力、地图探索、Boss、NPC、设置。
 
-#### 场景（Scene）⬜
+#### 场景（Scene）✅
 
-* 统一同步 / 异步加载、卸载、激活场景，封装 `SceneManager` 与加载进度。
-* 供房间（切地图单元）与游戏流程（切 Boot/主菜单/游玩）复用。
-* 加载期间配合过场界面。
+* 只负责切大地图：`Scene.Instance.LoadMap(name, onProgress, onDone)` 走 `SceneManager.LoadSceneAsync` 协程；`onProgress` 收到 0~1（内部按 `progress / 0.9` 换算，最后补 1），`onDone` 在成功与失败时都会回调，业务用 `CurrentMap` 对比判断成败。
+* 房间切换在同一张地图内完成，不经过本模块；黑屏与进度条由业务层用 `UIManager` 自行拼装，本模块只往外抛进度。
+* 加载中重复请求会被忽略并 `Log.Warn`，避免「点了没反应、过一会儿连切两次」。
 
 ### 3.5 玩法层
 
-#### 实体（Entity）⬜
+#### 实体（Entity）✅
 
-* 统一生命周期：Spawn → Init → Show → Update → Hide → Release。
-* 与对象池联动：池化对象通过 Entity 接口统一取出 / 放回并重置状态。
-* 与事件中心联动：按 owner 自动订阅 / 退订，对象销毁后不漏回调。
-* 可选 `EntityComponent` 组件接口（普通组件 + 接口约束，非 ECS）；Player / Enemy / NPC 属业务层，继承 Entity。
+* 当前只做一件事：激活与休眠。`Active()` / `Deactive()` 切换 `IsActive` 与 `enabled`，并回调 `OnActive()` / `OnDeactive()`；休眠时碰撞体与渲染保留，只停逻辑。
+* 血量、交互、受伤等能力由子类和接口各自实现，不放进基类——避免初学者被一个万能基类绑住。
+* ⬜ 待补：与对象池联动的取出 / 放回复位、按 owner 自动订阅退订、`EntityComponent` 组件接口（普通组件 + 接口约束，非 ECS）。Player / Enemy / NPC 属业务层，继承 Entity。
 
 #### 房间（Room）⬜
 
@@ -225,6 +225,8 @@
 ```
 
 关闭时逆序释放。当前 `GameEntry` 已注册：日志 → 事件中心 → 计时器 → 全局数据 → 配置 → 输入 → UI。
+
+资源、对象池、场景三个模块继承 `MonoSingleton<T>`，不进 `GameEntry` 的注册列表，而是在第一次访问 `Xxx.Instance` 时自动创建并 `OnInit`，随对象销毁`OnRelease`——这是刻意的分工：`Singleton<T>`（纯 C#）由入口统一装配，`MonoSingleton<T>`（挂 GameObject）按需出现。它们的静态引用仍由 `GameEntry.ResetSingletons()` 在会话开始时复位。
 
 ## 5\. 项目文件结构
 
@@ -298,18 +300,19 @@ Game ──► GameFramework.Runtime ──► GameFramework.Core ──► Unit
 
 ## 7\. 当前进度
 
-已实现 11 个模块：
+已实现 13 个模块：
 
 * **基础层**：单例、日志与工具、事件中心、状态机、计时器
 * **数据层**：全局数据、配置
 * **资源层**：资源（Resources）、对象池
-* **服务层**：输入、UI
+* **服务层**：输入、UI、场景
+* **玩法层**：实体
 
-装配层：`IModule` 统一生命周期、`GameEntry` 单列表注册与逐帧驱动。
+装配层：`IModule` 统一生命周期、`GameEntry` 单列表注册与逐帧驱动、`GameEntry.ResetSingletons()` 会话开始时显式复位各单例的静态字段。`GameEntry` 在 `Bootstrap`（`BeforeSceneLoad`）里先复位再创建入口，保证每次进入播放模式都从干净状态开始；`Update` 与 `Release` 对单个模块做了异常隔离，一个模块出错不会中断其余模块。
 
 进行中 / 待办：
 
-* \[ ] P0 剩余：场景、实体、房间、相机、游戏流程
+* \[ ] P0 剩余：房间、相机、游戏流程
 * \[ ] P1：音频、存档、本地化
 * \[ ] P2：热更
 * \[ ] `GameFramework.Core.Tests` EditMode 单测

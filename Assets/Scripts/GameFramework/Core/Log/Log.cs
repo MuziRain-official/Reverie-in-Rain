@@ -11,6 +11,12 @@ namespace Reverie.Framework
     {
         private static ILogSink _sink = NullLogSink.Instance;
 
+        /// <summary>
+        /// 复位静态输出端。由 GameEntry 在启动时调用：上一次会话注入的 UnityLogSink 已随会话失效。
+        /// 实例字段（级别、静音、频道）由 Singleton&lt;Log&gt;.Reset() 跟着实例一起丢弃。
+        /// </summary>
+        public static void ResetSink() => _sink = NullLogSink.Instance;
+
         private LogLevel _minLevel = LogLevel.Debug;          // 低于此级别不输出
         private bool _muteAll;                                // 全局静音（Error 除外）
         private readonly HashSet<string> _mutedChannels = new HashSet<string>();
