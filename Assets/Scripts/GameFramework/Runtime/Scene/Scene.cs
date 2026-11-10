@@ -47,28 +47,39 @@ namespace Reverie.Framework
         {
             _loading = true;
 
-            yield return null;   // 等一帧，否则同一帧读到的 progress 还是 0
-
-            // 默认 Single 模式：旧场景由 Unity 自动卸载，加载完自动成为活动场景
-            AsyncOperation op = SceneManager.LoadSceneAsync(mapName);
-            if (op == null)
+            // 用 try/finally 兜住 _loading：协程中途被打断（抛异常、对象被销毁、场景卸载
+            // 把协程一起干掉）时，finally 仍会执行，_loading 一定被复位。
+            // 否则会永久停在 true，之后所有 LoadMap 都被上面那句 Warn 挡掉，游戏卡死在 Loading。
+            bool failed = false;
+            try
             {
-                Log.Error($"场景 {mapName} 加载失败", LogChannel.Core);
+                yield return null;   // 等一帧，否则同一帧读到的 progress 还是 0
+
+                // 默认 Single 模式：旧场景由 Unity 自动卸载，加载完自动成为活动场景
+                AsyncOperation op = SceneManager.LoadSceneAsync(mapName);
+                if (op == null)
+                {
+                    Log.Error($"场景 {mapName} 加载失败", LogChannel.Core);
+                    failed = true;
+                }
+                else
+                {
+                    while (!op.isDone)
+                    {
+                        // Unity 的 progress 在激活前最多到 0.9，换算成 0~1；Clamp01 防止超 1
+                        onProgress?.Invoke(Mathf.Clamp01(op.progress / 0.9f));
+                        yield return null;
+                    }
+
+                    onProgress?.Invoke(1f);   // 进度条必须收在 1，否则停在 90%
+                }
+            }
+            finally
+            {
                 _loading = false;
-                onDone?.Invoke();
-                yield break;
             }
 
-            while (!op.isDone)
-            {
-                // Unity 的 progress 在激活前最多到 0.9，换算成 0~1；Clamp01 防止超 1
-                onProgress?.Invoke(Mathf.Clamp01(op.progress / 0.9f));
-                yield return null;
-            }
-
-            onProgress?.Invoke(1f);   // 进度条必须收在 1，否则停在 90%
-            _loading = false;
-            onDone?.Invoke();
+            if (!failed) onDone?.Invoke();
         }
     }
 }

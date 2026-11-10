@@ -47,6 +47,8 @@ namespace Reverie.Framework
             Pool.Reset();
             Resource.Reset();
             Scene.Reset();
+            Room.Reset();
+            GameFlow.Reset();
             GameEntry.Reset();
         }
 
@@ -54,7 +56,8 @@ namespace Reverie.Framework
         {
             Log.SetSink(UnityLogSink.Instance);   // 日志最先就绪，后续模块的报错才可见
 
-            // 启动顺序：日志 → 事件中心 → 计时器 → 全局数据 → 配置 → 输入 → UI → ……（按文档第 4 节逐层补全）
+            // 启动顺序：日志 → 事件中心 → 计时器 → 全局数据 → 配置 → 输入 → UI → 房间 → 流程 → ……
+            // （按文档第 4 节逐层补全；流程放最后，因为它要调度前面的模块）
             Add(Log.Create());
             Add(EventCenter.Create());
             Add(Timer.Create());
@@ -62,6 +65,8 @@ namespace Reverie.Framework
             Add(Config.Create());
             Add(InputReader.Create());
             Add(UIManager.Create());
+            Add(Room.Create());
+            Add(GameFlow.Create());
         }
 
         /// <summary>登记模块；实现 IUpdateModule 的同时进入逐帧驱动列表。</summary>
