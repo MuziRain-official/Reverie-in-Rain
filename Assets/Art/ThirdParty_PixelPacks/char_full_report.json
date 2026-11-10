@@ -1,0 +1,3078 @@
+{
+ "Joanna": [
+  {
+   "name": "Idle",
+   "loop": true,
+   "total": 6,
+   "rows": [
+    {
+     "file": "Idle",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/待机"
+  },
+  {
+   "name": "Walk",
+   "loop": true,
+   "total": 18,
+   "rows": [
+    {
+     "file": "Walk",
+     "frames": 18,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      1224,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/行走/行走中"
+  },
+  {
+   "name": "StartWalk",
+   "loop": false,
+   "total": 3,
+   "rows": [
+    {
+     "file": "StartWalk",
+     "frames": 3,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      204,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/行走/开始行走"
+  },
+  {
+   "name": "StopWalk",
+   "loop": false,
+   "total": 3,
+   "rows": [
+    {
+     "file": "StopWalk",
+     "frames": 3,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      204,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/行走/停步"
+  },
+  {
+   "name": "Run",
+   "loop": true,
+   "total": 8,
+   "rows": [
+    {
+     "file": "Run",
+     "frames": 8,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      512,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/奔跑中"
+  },
+  {
+   "name": "StartRun",
+   "loop": false,
+   "total": 3,
+   "rows": [
+    {
+     "file": "StartRun",
+     "frames": 3,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      192,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/开始奔跑"
+  },
+  {
+   "name": "StopRun",
+   "loop": false,
+   "total": 7,
+   "rows": [
+    {
+     "file": "StopRun",
+     "frames": 7,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      448,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/急停"
+  },
+  {
+   "name": "Sprint",
+   "loop": true,
+   "total": 8,
+   "rows": [
+    {
+     "file": "Sprint",
+     "frames": 8,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      512,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/疾跑/循环(3)"
+  },
+  {
+   "name": "StartSprint",
+   "loop": false,
+   "total": 6,
+   "rows": [
+    {
+     "file": "StartSprint",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/疾跑/开始疾跑"
+  },
+  {
+   "name": "RunFull",
+   "loop": false,
+   "total": 18,
+   "rows": [
+    {
+     "file": "RunFull",
+     "frames": 18,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/奔跑/右跑/完整动作"
+  },
+  {
+   "name": "Jump",
+   "loop": false,
+   "total": 3,
+   "rows": [
+    {
+     "file": "Jump",
+     "frames": 3,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      192,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/跳跃与下落/跳跃中"
+  },
+  {
+   "name": "Fall",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "Fall",
+     "frames": 3,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      192,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/跳跃与下落/下落中"
+  },
+  {
+   "name": "JumpAndFall",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "JumpAndFall",
+     "frames": 16,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1024,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/跳跃与下落/完整动作"
+  },
+  {
+   "name": "Land",
+   "loop": false,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Land",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/跳跃与下落/落地/特效"
+  },
+  {
+   "name": "HeavyLand",
+   "loop": false,
+   "total": 11,
+   "rows": [
+    {
+     "file": "HeavyLand",
+     "frames": 11,
+     "cell": [
+      72,
+      64
+     ],
+     "size": [
+      792,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    72,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/跳跃与下落/重落地/特效"
+  },
+  {
+   "name": "Dash",
+   "loop": false,
+   "total": 8,
+   "rows": [
+    {
+     "file": "Dash",
+     "frames": 8,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      544,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/冲刺/完整动作/特效"
+  },
+  {
+   "name": "DashLoop",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "DashLoop",
+     "frames": 3,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      204,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/冲刺/冲刺中"
+  },
+  {
+   "name": "BackDash",
+   "loop": false,
+   "total": 11,
+   "rows": [
+    {
+     "file": "BackDash",
+     "frames": 11,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      704,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/后撤步"
+  },
+  {
+   "name": "Slide",
+   "loop": false,
+   "total": 10,
+   "rows": [
+    {
+     "file": "Slide",
+     "frames": 10,
+     "cell": [
+      76,
+      64
+     ],
+     "size": [
+      760,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    76,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/滑铲/完整动作/特效"
+  },
+  {
+   "name": "SlideLoop",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "SlideLoop",
+     "frames": 3,
+     "cell": [
+      76,
+      64
+     ],
+     "size": [
+      228,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    76,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/滑铲/滑铲中/特效"
+  },
+  {
+   "name": "Roll",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "Roll",
+     "frames": 14,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      952,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/翻滚"
+  },
+  {
+   "name": "DashJump",
+   "loop": false,
+   "total": 9,
+   "rows": [
+    {
+     "file": "DashJump",
+     "frames": 9,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      576,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/冲刺跳/冲量跳"
+  },
+  {
+   "name": "DashFall",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "DashFall",
+     "frames": 3,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      192,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/冲刺跳/冲刺下落"
+  },
+  {
+   "name": "DashLand",
+   "loop": false,
+   "total": 13,
+   "rows": [
+    {
+     "file": "DashLand",
+     "frames": 13,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      832,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/冲刺跳/冲刺落地"
+  },
+  {
+   "name": "CrouchDown",
+   "loop": false,
+   "total": 2,
+   "rows": [
+    {
+     "file": "CrouchDown",
+     "frames": 2,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      128,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/蹲伏/蹲下"
+  },
+  {
+   "name": "Crouch",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "Crouch",
+     "frames": 14,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      896,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/蹲伏/完整动作"
+  },
+  {
+   "name": "CrouchUp",
+   "loop": false,
+   "total": 5,
+   "rows": [
+    {
+     "file": "CrouchUp",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/蹲伏/起身"
+  },
+  {
+   "name": "WallSlide",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "WallSlide",
+     "frames": 3,
+     "cell": [
+      64,
+      72
+     ],
+     "size": [
+      192,
+      72
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    72
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/贴墙滑落/特效/贴墙滑落中"
+  },
+  {
+   "name": "WallJump",
+   "loop": false,
+   "total": 11,
+   "rows": [
+    {
+     "file": "WallJump",
+     "frames": 11,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      704,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/蹬墙跳/特效"
+  },
+  {
+   "name": "LadderUp",
+   "loop": true,
+   "total": 6,
+   "rows": [
+    {
+     "file": "LadderUp",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/爬梯/爬梯上行"
+  },
+  {
+   "name": "LadderDown",
+   "loop": true,
+   "total": 6,
+   "rows": [
+    {
+     "file": "LadderDown",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/爬梯/下梯"
+  },
+  {
+   "name": "EdgeGrab",
+   "loop": false,
+   "total": 6,
+   "rows": [
+    {
+     "file": "EdgeGrab",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/边缘抓取/进入抓取"
+  },
+  {
+   "name": "EdgeClimb",
+   "loop": false,
+   "total": 6,
+   "rows": [
+    {
+     "file": "EdgeClimb",
+     "frames": 6,
+     "cell": [
+      64,
+      76
+     ],
+     "size": [
+      384,
+      76
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    76
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/边缘抓取/上拉"
+  },
+  {
+   "name": "LightAtk",
+   "loop": false,
+   "total": 12,
+   "rows": [
+    {
+     "file": "LightAtk",
+     "frames": 12,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/轻击"
+  },
+  {
+   "name": "ComboAtk",
+   "loop": false,
+   "total": 30,
+   "rows": [
+    {
+     "file": "ComboAtk_r1",
+     "frames": 15,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1920,
+      64
+     ]
+    },
+    {
+     "file": "ComboAtk_r2",
+     "frames": 15,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1920,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/连击"
+  },
+  {
+   "name": "UpAtk",
+   "loop": false,
+   "total": 12,
+   "rows": [
+    {
+     "file": "UpAtk",
+     "frames": 12,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1536,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/上挑"
+  },
+  {
+   "name": "UpLightAtk",
+   "loop": false,
+   "total": 11,
+   "rows": [
+    {
+     "file": "UpLightAtk",
+     "frames": 11,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1056,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/上挑轻击"
+  },
+  {
+   "name": "SprintAtk",
+   "loop": false,
+   "total": 12,
+   "rows": [
+    {
+     "file": "SprintAtk",
+     "frames": 12,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1536,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/冲刺攻击"
+  },
+  {
+   "name": "CrouchAtk",
+   "loop": false,
+   "total": 12,
+   "rows": [
+    {
+     "file": "CrouchAtk",
+     "frames": 12,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/蹲伏攻击"
+  },
+  {
+   "name": "AirAtk",
+   "loop": false,
+   "total": 17,
+   "rows": [
+    {
+     "file": "AirAtk",
+     "frames": 17,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1632,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/空中攻击/特效"
+  },
+  {
+   "name": "AirUpAtk",
+   "loop": false,
+   "total": 9,
+   "rows": [
+    {
+     "file": "AirUpAtk",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/空中上挑"
+  },
+  {
+   "name": "AirDownAtk",
+   "loop": false,
+   "total": 9,
+   "rows": [
+    {
+     "file": "AirDownAtk",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/空中下劈"
+  },
+  {
+   "name": "FrontLightAtk",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "FrontLightAtk",
+     "frames": 16,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      2048,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/正面轻击"
+  },
+  {
+   "name": "FrontHeavyAtk",
+   "loop": false,
+   "total": 17,
+   "rows": [
+    {
+     "file": "FrontHeavyAtk_r1",
+     "frames": 9,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    },
+    {
+     "file": "FrontHeavyAtk_r2",
+     "frames": 8,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1024,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/正面重击"
+  },
+  {
+   "name": "ShieldAtk",
+   "loop": false,
+   "total": 15,
+   "rows": [
+    {
+     "file": "ShieldAtk",
+     "frames": 15,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      960,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/护盾攻击"
+  },
+  {
+   "name": "ShieldCounter",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "ShieldCounter",
+     "frames": 14,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1792,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/护盾反击"
+  },
+  {
+   "name": "GuardedAtk",
+   "loop": false,
+   "total": 19,
+   "rows": [
+    {
+     "file": "GuardedAtk_r1",
+     "frames": 10,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1280,
+      64
+     ]
+    },
+    {
+     "file": "GuardedAtk_r2",
+     "frames": 9,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/格挡攻击"
+  },
+  {
+   "name": "HolySlash",
+   "loop": false,
+   "total": 17,
+   "rows": [
+    {
+     "file": "HolySlash_r1",
+     "frames": 9,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      1512,
+      128
+     ]
+    },
+    {
+     "file": "HolySlash_r2",
+     "frames": 8,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      1344,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    168,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/施法/圣光斩/施法"
+  },
+  {
+   "name": "HolyCharge",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "HolyCharge",
+     "frames": 3,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      504,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    168,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/施法/圣光斩/蓄力"
+  },
+  {
+   "name": "HolyHeal",
+   "loop": false,
+   "total": 26,
+   "rows": [
+    {
+     "file": "HolyHeal_r1",
+     "frames": 13,
+     "cell": [
+      80,
+      96
+     ],
+     "size": [
+      1040,
+      96
+     ]
+    },
+    {
+     "file": "HolyHeal_r2",
+     "frames": 13,
+     "cell": [
+      80,
+      96
+     ],
+     "size": [
+      1040,
+      96
+     ]
+    }
+   ],
+   "cell": [
+    80,
+    96
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/施法/圣光治疗/特效"
+  },
+  {
+   "name": "AirHeavyAtk",
+   "loop": false,
+   "total": 24,
+   "rows": [
+    {
+     "file": "AirHeavyAtk_r1",
+     "frames": 12,
+     "cell": [
+      108,
+      64
+     ],
+     "size": [
+      1296,
+      64
+     ]
+    },
+    {
+     "file": "AirHeavyAtk_r2",
+     "frames": 12,
+     "cell": [
+      108,
+      64
+     ],
+     "size": [
+      1296,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    108,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/空中重击/姿势1/完整动作"
+  },
+  {
+   "name": "AirHeavyAtk2",
+   "loop": false,
+   "total": 24,
+   "rows": [
+    {
+     "file": "AirHeavyAtk2_r1",
+     "frames": 12,
+     "cell": [
+      108,
+      64
+     ],
+     "size": [
+      1296,
+      64
+     ]
+    },
+    {
+     "file": "AirHeavyAtk2_r2",
+     "frames": 12,
+     "cell": [
+      108,
+      64
+     ],
+     "size": [
+      1296,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    108,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/攻击/空中重击/姿势2/完整动作"
+  },
+  {
+   "name": "BladeBuff",
+   "loop": false,
+   "total": 21,
+   "rows": [
+    {
+     "file": "BladeBuff",
+     "frames": 21,
+     "cell": [
+      96,
+      108
+     ],
+     "size": [
+      2016,
+      108
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    108
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/施法/剑刃增益/光晕/完整动作"
+  },
+  {
+   "name": "ShieldBuff",
+   "loop": false,
+   "total": 17,
+   "rows": [
+    {
+     "file": "ShieldBuff",
+     "frames": 17,
+     "cell": [
+      96,
+      128
+     ],
+     "size": [
+      1632,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    128
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/施法/护盾增益/完整动作(光晕)"
+  },
+  {
+   "name": "BlockEnter",
+   "loop": false,
+   "total": 5,
+   "rows": [
+    {
+     "file": "BlockEnter",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/格挡/进入格挡"
+  },
+  {
+   "name": "Block",
+   "loop": true,
+   "total": 4,
+   "rows": [
+    {
+     "file": "Block",
+     "frames": 4,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      256,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/格挡/格挡/特效"
+  },
+  {
+   "name": "BlockExit",
+   "loop": false,
+   "total": 2,
+   "rows": [
+    {
+     "file": "BlockExit",
+     "frames": 2,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      128,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/格挡/脱离格挡"
+  },
+  {
+   "name": "GuardBreak",
+   "loop": false,
+   "total": 2,
+   "rows": [
+    {
+     "file": "GuardBreak",
+     "frames": 2,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      136,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/格挡/破防/急停ed"
+  },
+  {
+   "name": "CounterEnter",
+   "loop": false,
+   "total": 9,
+   "rows": [
+    {
+     "file": "CounterEnter",
+     "frames": 9,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      576,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/反击/进入反击"
+  },
+  {
+   "name": "Counter",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "Counter",
+     "frames": 16,
+     "cell": [
+      80,
+      80
+     ],
+     "size": [
+      1280,
+      80
+     ]
+    }
+   ],
+   "cell": [
+    80,
+    80
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/反击/执行反击"
+  },
+  {
+   "name": "Hurt",
+   "loop": false,
+   "total": 6,
+   "rows": [
+    {
+     "file": "Hurt",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/受击/特效"
+  },
+  {
+   "name": "Knockback",
+   "loop": false,
+   "total": 27,
+   "rows": [
+    {
+     "file": "Knockback_r1",
+     "frames": 14,
+     "cell": [
+      80,
+      64
+     ],
+     "size": [
+      1120,
+      64
+     ]
+    },
+    {
+     "file": "Knockback_r2",
+     "frames": 13,
+     "cell": [
+      80,
+      64
+     ],
+     "size": [
+      1040,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    80,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/击退"
+  },
+  {
+   "name": "Death",
+   "loop": false,
+   "total": 26,
+   "rows": [
+    {
+     "file": "Death_r1",
+     "frames": 13,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1248,
+      64
+     ]
+    },
+    {
+     "file": "Death_r2",
+     "frames": 13,
+     "cell": [
+      96,
+      64
+     ],
+     "size": [
+      1248,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/死亡"
+  },
+  {
+   "name": "Rest",
+   "loop": false,
+   "total": 23,
+   "rows": [
+    {
+     "file": "Rest",
+     "frames": 23,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1472,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/休息/完整动作"
+  },
+  {
+   "name": "Sleep",
+   "loop": true,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Sleep",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "乔安娜 JoannaD'ArcIII/精灵图/休息/睡眠中"
+  },
+  {
+   "name": "UseItem",
+   "loop": false,
+   "total": 21,
+   "rows": [
+    {
+     "file": "UseItem",
+     "frames": 21,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1344,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/使用道具"
+  },
+  {
+   "name": "DashLightAtk",
+   "loop": false,
+   "total": 15,
+   "rows": [
+    {
+     "file": "DashLightAtk_r1",
+     "frames": 8,
+     "cell": [
+      192,
+      144
+     ],
+     "size": [
+      1536,
+      144
+     ]
+    },
+    {
+     "file": "DashLightAtk_r2",
+     "frames": 7,
+     "cell": [
+      192,
+      144
+     ],
+     "size": [
+      1344,
+      144
+     ]
+    }
+   ],
+   "cell": [
+    192,
+    144
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/冲刺攻击/冲刺轻击"
+  },
+  {
+   "name": "DashHeavyAtk",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "DashHeavyAtk_r1",
+     "frames": 8,
+     "cell": [
+      192,
+      144
+     ],
+     "size": [
+      1536,
+      144
+     ]
+    },
+    {
+     "file": "DashHeavyAtk_r2",
+     "frames": 8,
+     "cell": [
+      192,
+      144
+     ],
+     "size": [
+      1536,
+      144
+     ]
+    }
+   ],
+   "cell": [
+    192,
+    144
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/冲刺攻击/冲刺重击"
+  },
+  {
+   "name": "OpenChest",
+   "loop": false,
+   "total": 13,
+   "rows": [
+    {
+     "file": "OpenChest",
+     "frames": 13,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      832,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/开宝箱/开宝箱"
+  },
+  {
+   "name": "KnockRecover",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "KnockRecover",
+     "frames": 16,
+     "cell": [
+      128,
+      144
+     ],
+     "size": [
+      2048,
+      144
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    144
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/击退补充/恢复/完整动作"
+  },
+  {
+   "name": "RunBlocked",
+   "loop": false,
+   "total": 8,
+   "rows": [
+    {
+     "file": "RunBlocked",
+     "frames": 8,
+     "cell": [
+      128,
+      144
+     ],
+     "size": [
+      1024,
+      144
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    144
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/奔跑补充/奔跑格挡/奔跑受阻"
+  },
+  {
+   "name": "SprintBlocked",
+   "loop": false,
+   "total": 7,
+   "rows": [
+    {
+     "file": "SprintBlocked",
+     "frames": 7,
+     "cell": [
+      128,
+      144
+     ],
+     "size": [
+      896,
+      144
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    144
+   ],
+   "src": "补充动画 ExtraAnimations（乔安娜）/补充动画/疾跑补充/疾跑受阻"
+  }
+ ],
+ "SalamanderWitch": [
+  {
+   "name": "Idle",
+   "loop": true,
+   "total": 9,
+   "rows": [
+    {
+     "file": "Idle",
+     "frames": 9,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      576,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/待机"
+  },
+  {
+   "name": "Move",
+   "loop": true,
+   "total": 8,
+   "rows": [
+    {
+     "file": "Move",
+     "frames": 8,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      512,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/移动/移动中"
+  },
+  {
+   "name": "MoveFull",
+   "loop": false,
+   "total": 13,
+   "rows": [
+    {
+     "file": "MoveFull",
+     "frames": 13,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      832,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/移动/完整动作"
+  },
+  {
+   "name": "Sprint",
+   "loop": true,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Sprint",
+     "frames": 5,
+     "cell": [
+      88,
+      72
+     ],
+     "size": [
+      440,
+      72
+     ]
+    }
+   ],
+   "cell": [
+    88,
+    72
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/疾跑/疾跑中/特效"
+  },
+  {
+   "name": "SprintFull",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "SprintFull",
+     "frames": 14,
+     "cell": [
+      88,
+      72
+     ],
+     "size": [
+      1232,
+      72
+     ]
+    }
+   ],
+   "cell": [
+    88,
+    72
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/疾跑/完整动作/特效"
+  },
+  {
+   "name": "SprintStop",
+   "loop": false,
+   "total": 7,
+   "rows": [
+    {
+     "file": "SprintStop",
+     "frames": 7,
+     "cell": [
+      88,
+      72
+     ],
+     "size": [
+      616,
+      72
+     ]
+    }
+   ],
+   "cell": [
+    88,
+    72
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/疾跑/急停/特效"
+  },
+  {
+   "name": "Jump",
+   "loop": false,
+   "total": 3,
+   "rows": [
+    {
+     "file": "Jump",
+     "frames": 3,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      192,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/跳跃与下落/跳跃"
+  },
+  {
+   "name": "Fall",
+   "loop": true,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Fall",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/跳跃与下落/下落"
+  },
+  {
+   "name": "JumpAndFall",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "JumpAndFall",
+     "frames": 14,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      896,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/跳跃与下落/完整动作"
+  },
+  {
+   "name": "Land",
+   "loop": false,
+   "total": 6,
+   "rows": [
+    {
+     "file": "Land",
+     "frames": 6,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      384,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/跳跃与下落/落地"
+  },
+  {
+   "name": "Dash",
+   "loop": false,
+   "total": 19,
+   "rows": [
+    {
+     "file": "Dash",
+     "frames": 19,
+     "cell": [
+      96,
+      68
+     ],
+     "size": [
+      1824,
+      68
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    68
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/冲刺/完整动作"
+  },
+  {
+   "name": "DashLoop",
+   "loop": true,
+   "total": 3,
+   "rows": [
+    {
+     "file": "DashLoop",
+     "frames": 3,
+     "cell": [
+      96,
+      68
+     ],
+     "size": [
+      288,
+      68
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    68
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/冲刺/冲刺中"
+  },
+  {
+   "name": "Hurt",
+   "loop": false,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Hurt",
+     "frames": 5,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      340,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/受击"
+  },
+  {
+   "name": "Spin",
+   "loop": false,
+   "total": 18,
+   "rows": [
+    {
+     "file": "Spin",
+     "frames": 18,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1152,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/旋转"
+  },
+  {
+   "name": "ComboAtk",
+   "loop": false,
+   "total": 28,
+   "rows": [
+    {
+     "file": "ComboAtk_r1",
+     "frames": 10,
+     "cell": [
+      148,
+      80
+     ],
+     "size": [
+      1480,
+      80
+     ]
+    },
+    {
+     "file": "ComboAtk_r2",
+     "frames": 10,
+     "cell": [
+      148,
+      80
+     ],
+     "size": [
+      1480,
+      80
+     ]
+    },
+    {
+     "file": "ComboAtk_r3",
+     "frames": 8,
+     "cell": [
+      148,
+      80
+     ],
+     "size": [
+      1184,
+      80
+     ]
+    }
+   ],
+   "cell": [
+    148,
+    80
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/攻击/连击/完整动作(特效)"
+  },
+  {
+   "name": "ComboAtkPlain",
+   "loop": false,
+   "total": 28,
+   "rows": [
+    {
+     "file": "ComboAtkPlain",
+     "frames": 28,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      1904,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/攻击/连击/完整动作"
+  },
+  {
+   "name": "Cast",
+   "loop": false,
+   "total": 22,
+   "rows": [
+    {
+     "file": "Cast_r1",
+     "frames": 11,
+     "cell": [
+      96,
+      96
+     ],
+     "size": [
+      1056,
+      96
+     ]
+    },
+    {
+     "file": "Cast_r2",
+     "frames": 11,
+     "cell": [
+      96,
+      96
+     ],
+     "size": [
+      1056,
+      96
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    96
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/轻施法/完整动作"
+  },
+  {
+   "name": "CastLoop",
+   "loop": true,
+   "total": 4,
+   "rows": [
+    {
+     "file": "CastLoop",
+     "frames": 4,
+     "cell": [
+      96,
+      96
+     ],
+     "size": [
+      384,
+      96
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    96
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/轻施法/施法中"
+  },
+  {
+   "name": "CastEnd",
+   "loop": false,
+   "total": 4,
+   "rows": [
+    {
+     "file": "CastEnd",
+     "frames": 4,
+     "cell": [
+      96,
+      96
+     ],
+     "size": [
+      384,
+      96
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    96
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/轻施法/施法转待机"
+  },
+  {
+   "name": "FastCast",
+   "loop": false,
+   "total": 14,
+   "rows": [
+    {
+     "file": "FastCast",
+     "frames": 14,
+     "cell": [
+      96,
+      68
+     ],
+     "size": [
+      1344,
+      68
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    68
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/快速施法"
+  },
+  {
+   "name": "HeavyCast",
+   "loop": false,
+   "total": 31,
+   "rows": [
+    {
+     "file": "HeavyCast",
+     "frames": 31,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1984,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/重施法/完整动作"
+  },
+  {
+   "name": "HeavyCastEnter",
+   "loop": false,
+   "total": 12,
+   "rows": [
+    {
+     "file": "HeavyCastEnter",
+     "frames": 12,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      768,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/重施法/进入重施法"
+  },
+  {
+   "name": "ThunderCast",
+   "loop": false,
+   "total": 30,
+   "rows": [
+    {
+     "file": "ThunderCast",
+     "frames": 30,
+     "cell": [
+      68,
+      64
+     ],
+     "size": [
+      2040,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    68,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/雷电/完整动作"
+  },
+  {
+   "name": "TwinThunderCast",
+   "loop": false,
+   "total": 16,
+   "rows": [
+    {
+     "file": "TwinThunderCast",
+     "frames": 16,
+     "cell": [
+      96,
+      80
+     ],
+     "size": [
+      1536,
+      80
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    80
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/双雷/施法"
+  },
+  {
+   "name": "TwinThunderCharge",
+   "loop": true,
+   "total": 4,
+   "rows": [
+    {
+     "file": "TwinThunderCharge",
+     "frames": 4,
+     "cell": [
+      96,
+      80
+     ],
+     "size": [
+      384,
+      80
+     ]
+    }
+   ],
+   "cell": [
+    96,
+    80
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/双雷/蓄力"
+  },
+  {
+   "name": "IcePillarCast",
+   "loop": false,
+   "total": 24,
+   "rows": [
+    {
+     "file": "IcePillarCast_r1",
+     "frames": 12,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1536,
+      64
+     ]
+    },
+    {
+     "file": "IcePillarCast_r2",
+     "frames": 12,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      1536,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/冰柱/完整动作"
+  },
+  {
+   "name": "IcePillarCharge",
+   "loop": true,
+   "total": 4,
+   "rows": [
+    {
+     "file": "IcePillarCharge",
+     "frames": 4,
+     "cell": [
+      128,
+      64
+     ],
+     "size": [
+      512,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/冰柱/蓄力"
+  },
+  {
+   "name": "UpCast",
+   "loop": false,
+   "total": 15,
+   "rows": [
+    {
+     "file": "UpCast",
+     "frames": 15,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      960,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/施法/上挑施法"
+  },
+  {
+   "name": "DoubleJump",
+   "loop": false,
+   "total": 11,
+   "rows": [
+    {
+     "file": "DoubleJump",
+     "frames": 11,
+     "cell": [
+      64,
+      68
+     ],
+     "size": [
+      704,
+      68
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    68
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/跳跃与下落/二段跳/完整动作/光晕"
+  },
+  {
+   "name": "FireSlash",
+   "loop": false,
+   "total": 28,
+   "rows": [
+    {
+     "file": "FireSlash_r1",
+     "frames": 10,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      1680,
+      128
+     ]
+    },
+    {
+     "file": "FireSlash_r2",
+     "frames": 10,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      1680,
+      128
+     ]
+    },
+    {
+     "file": "FireSlash_r3",
+     "frames": 8,
+     "cell": [
+      168,
+      128
+     ],
+     "size": [
+      1344,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    168,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/攻击/火焰斩击/光晕特效/完整动作"
+  },
+  {
+   "name": "CometDive",
+   "loop": false,
+   "total": 28,
+   "rows": [
+    {
+     "file": "CometDive_r1",
+     "frames": 14,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1792,
+      128
+     ]
+    },
+    {
+     "file": "CometDive_r2",
+     "frames": 14,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1792,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/攻击/彗星下砸/完整动作/光晕"
+  },
+  {
+   "name": "ThunderStrike",
+   "loop": false,
+   "total": 26,
+   "rows": [
+    {
+     "file": "ThunderStrike_r1",
+     "frames": 13,
+     "cell": [
+      152,
+      128
+     ],
+     "size": [
+      1976,
+      128
+     ]
+    },
+    {
+     "file": "ThunderStrike_r2",
+     "frames": 13,
+     "cell": [
+      152,
+      128
+     ],
+     "size": [
+      1976,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    152,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/法术/雷/落雷/完整动作/蓝色/光晕"
+  },
+  {
+   "name": "ThunderBolt",
+   "loop": false,
+   "total": 19,
+   "rows": [
+    {
+     "file": "ThunderBolt_r1",
+     "frames": 10,
+     "cell": [
+      168,
+      80
+     ],
+     "size": [
+      1680,
+      80
+     ]
+    },
+    {
+     "file": "ThunderBolt_r2",
+     "frames": 9,
+     "cell": [
+      168,
+      80
+     ],
+     "size": [
+      1512,
+      80
+     ]
+    }
+   ],
+   "cell": [
+    168,
+    80
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/法术/雷/雷电/完整动作"
+  },
+  {
+   "name": "Inferno",
+   "loop": false,
+   "total": 19,
+   "rows": [
+    {
+     "file": "Inferno_r1",
+     "frames": 10,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1280,
+      128
+     ]
+    },
+    {
+     "file": "Inferno_r2",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/法术/火/地狱火/光晕"
+  },
+  {
+   "name": "BlackHole",
+   "loop": false,
+   "total": 26,
+   "rows": [
+    {
+     "file": "BlackHole_r1",
+     "frames": 13,
+     "cell": [
+      148,
+      128
+     ],
+     "size": [
+      1924,
+      128
+     ]
+    },
+    {
+     "file": "BlackHole_r2",
+     "frames": 13,
+     "cell": [
+      148,
+      128
+     ],
+     "size": [
+      1924,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    148,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/法术/黑洞/精灵图"
+  },
+  {
+   "name": "MagicShieldCast",
+   "loop": false,
+   "total": 18,
+   "rows": [
+    {
+     "file": "MagicShieldCast_r1",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    },
+    {
+     "file": "MagicShieldCast_r2",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/魔法盾/施法/特效"
+  },
+  {
+   "name": "MagicShieldLoop",
+   "loop": true,
+   "total": 4,
+   "rows": [
+    {
+     "file": "MagicShieldLoop",
+     "frames": 4,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      512,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/魔法盾/施法中/特效"
+  },
+  {
+   "name": "MagicShieldBlock",
+   "loop": false,
+   "total": 4,
+   "rows": [
+    {
+     "file": "MagicShieldBlock",
+     "frames": 4,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      512,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/魔法盾/格挡/特效"
+  },
+  {
+   "name": "MagicShieldHit",
+   "loop": false,
+   "total": 4,
+   "rows": [
+    {
+     "file": "MagicShieldHit",
+     "frames": 4,
+     "cell": [
+      112,
+      128
+     ],
+     "size": [
+      448,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    112,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/法术/魔法盾/受击"
+  },
+  {
+   "name": "MagicShieldStop",
+   "loop": false,
+   "total": 9,
+   "rows": [
+    {
+     "file": "MagicShieldStop",
+     "frames": 9,
+     "cell": [
+      128,
+      128
+     ],
+     "size": [
+      1152,
+      128
+     ]
+    }
+   ],
+   "cell": [
+    128,
+    128
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/魔法盾/急停/特效"
+  },
+  {
+   "name": "Rest",
+   "loop": false,
+   "total": 27,
+   "rows": [
+    {
+     "file": "Rest",
+     "frames": 27,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      1728,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/休息/完整动作"
+  },
+  {
+   "name": "Sleep",
+   "loop": true,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Sleep",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/休息/睡眠中"
+  },
+  {
+   "name": "Sleep2",
+   "loop": true,
+   "total": 5,
+   "rows": [
+    {
+     "file": "Sleep2",
+     "frames": 5,
+     "cell": [
+      64,
+      64
+     ],
+     "size": [
+      320,
+      64
+     ]
+    }
+   ],
+   "cell": [
+    64,
+    64
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/休息/睡眠2/睡眠中2"
+  },
+  {
+   "name": "Death",
+   "loop": false,
+   "total": 30,
+   "rows": [
+    {
+     "file": "Death_r1",
+     "frames": 15,
+     "cell": [
+      100,
+      68
+     ],
+     "size": [
+      1500,
+      68
+     ]
+    },
+    {
+     "file": "Death_r2",
+     "frames": 15,
+     "cell": [
+      100,
+      68
+     ],
+     "size": [
+      1500,
+      68
+     ]
+    }
+   ],
+   "cell": [
+    100,
+    68
+   ],
+   "src": "沙罗曼蛇女巫 SalamanderWitch/精灵图/死亡"
+  }
+ ]
+}
