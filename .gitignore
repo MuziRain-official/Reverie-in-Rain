@@ -125,3 +125,6 @@ InitTestScene*.unity*
 
 # 沙箱诊断脚本与报告（本地临时）
 /.dsh-acl-recovery/
+# 编辑器截图产物，不进版本库（默认输出到 Assets/Screenshots）
+/[Aa]ssets/Screenshots/
+/[Aa]ssets/Screenshots.meta
