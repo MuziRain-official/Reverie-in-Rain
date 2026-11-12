@@ -8,19 +8,19 @@ namespace Reverie.Game
     public enum PlayerStateId
     {
         // —— 地面 ——
-        Idle,
-        Move,
-        Crouch,
+        Ground_Idle,
+        Ground_Move,
+        Ground_Crouch,
 
         // —— 空中 ——
-        Jump,
-        Fall,
-        Land,
+        Air_Jump,
+        Air_Fall,
+        Air_Land,
 
         // —— 攻击 ——
-        LightAttack,
-        HeavyAttack,
-        Combo,
+        Attack_Light,
+        Attack_Heavy,
+        Attack_Combo,
 
         // —— 受击 ——
         Hurt,

@@ -15,7 +15,7 @@ namespace Reverie.Framework
     ///   GameFlow.Instance.Resume();      // 恢复
     ///   GameFlow.Instance.BackToTitle(); // 回标题
     ///
-    /// 状态机负责「进一个状态要做什么、退出去要做什么」，
+    /// 五个状态各是一个类（见文件末尾），行为写在各自的 OnEnter/OnUpdate/OnExit 里；
     /// 业务层只调用上面这几个方法，不直接碰内部状态机。
     /// </summary>
     public class GameFlow : Singleton<GameFlow>, IUpdateModule
@@ -24,9 +24,6 @@ namespace Reverie.Framework
 
         /// <summary>当前流程状态。</summary>
         public GameFlowState Current => _fsm != null ? _fsm.Current : GameFlowState.Boot;
-
-        /// <summary>上一个流程状态。</summary>
-        public GameFlowState Previous => _fsm != null ? _fsm.Previous : GameFlowState.Boot;
 
         /// <summary>暂停事件名，业务层可订阅它来播暂停动画。</summary>
         public const string EventPause = "flow.pause";
@@ -90,52 +87,64 @@ namespace Reverie.Framework
 
         // ---------------- 内部状态机 ----------------
 
-        /// <summary>把每个状态的进出逻辑集中在一处，业务流程里不用写 switch。</summary>
+        /// <summary>把五个状态的注册集中在一处，业务流程里不用写 switch。</summary>
         private class Flow : FsmBase<GameFlowState>
+        {
+            public Flow(GameFlow owner)
+            {
+                Register(GameFlowState.Boot,    new BootState());
+                Register(GameFlowState.Title,   new TitleState(owner));
+                Register(GameFlowState.Loading, new LoadingState(owner));
+                Register(GameFlowState.Playing, new PlayingState());
+                Register(GameFlowState.Paused,  new PausedState());
+            }
+        }
+
+        // ---- 五个状态类 ----
+
+        /// <summary>启动：打完日志直接进游玩（跳过标题页，方便直接进游戏调试）。</summary>
+        private class BootState : FsmState<GameFlowState>
+        {
+            public override void OnEnter()
+            {
+                Log.Info("流程：Boot", LogChannel.Core);
+                Fsm.ChangeState(GameFlowState.Title);   // 骨架版：先过一遍标题
+                Fsm.ChangeState(GameFlowState.Playing); // 临时：跳过标题直接进游玩
+            }
+        }
+
+        /// <summary>标题页：锁输入，按跳跃键开始。真做的时候换成 UI 按钮调 StartGame()。</summary>
+        private class TitleState : FsmState<GameFlowState>
         {
             private readonly GameFlow _owner;
 
-            public Flow(GameFlow owner)
-            {
-                _owner = owner;
+            public TitleState(GameFlow owner) { _owner = owner; }
 
-                Register(GameFlowState.Boot,    OnEnterBoot);
-                Register(GameFlowState.Title,   OnEnterTitle, OnUpdateTitle, OnExitTitle);
-                Register(GameFlowState.Loading, OnEnterLoading);
-                Register(GameFlowState.Playing, OnEnterPlaying, OnUpdatePlaying, OnExitPlaying);
-                Register(GameFlowState.Paused,  OnEnterPaused, OnUpdatePaused, OnExitPaused);
-            }
-
-            // ---- Boot ----
-
-            private void OnEnterBoot()
-            {
-                Log.Info("流程：Boot", LogChannel.Core);
-                ChangeState(GameFlowState.Title);   // 骨架版：启动后直接进标题
-            }
-
-            // ---- Title ----
-
-            private void OnEnterTitle()
+            public override void OnEnter()
             {
                 Log.Info("流程：Title", LogChannel.Core);
                 InputReader.Instance.Lock();        // 标题页不接受游戏操作
             }
 
-            private void OnUpdateTitle()
+            public override void OnUpdate()
             {
-                // 骨架版：按跳跃键开始。真做的时候换成 UI 按钮调 StartGame()
                 if (InputReader.Instance.JumpPressed) _owner.StartGame();
             }
 
-            private void OnExitTitle()
+            public override void OnExit()
             {
                 InputReader.Instance.Unlock();
             }
+        }
 
-            // ---- Loading ----
+        /// <summary>载入：重新加载当前场景，加载完自动进游玩。</summary>
+        private class LoadingState : FsmState<GameFlowState>
+        {
+            private readonly GameFlow _owner;
 
-            private void OnEnterLoading()
+            public LoadingState(GameFlow owner) { _owner = owner; }
+
+            public override void OnEnter()
             {
                 Log.Info("流程：Loading", LogChannel.Core);
                 InputReader.Instance.Lock();
@@ -144,54 +153,54 @@ namespace Reverie.Framework
                 // 接真实关卡后换成 Scene.Instance.LoadMap("关卡名", onProgress, onDone)。
                 Scene.Instance.LoadMap(
                     Scene.Instance.CurrentMap,
-                    OnLoadingProgress,
-                    () =>
-                    {
-                        InputReader.Instance.Unlock();
-                        ChangeState(GameFlowState.Playing);
-                    });
+                    OnProgress,
+                    () => Fsm.ChangeState(GameFlowState.Playing));   // 解锁交给 PlayingState.OnEnter
             }
 
-            private void OnLoadingProgress(float progress)
+            private void OnProgress(float progress)
             {
                 // 骨架版只往外发事件，进度条 UI 由业务层订阅
                 EventCenter.Instance.Publish(EventStateChanged, GameFlowState.Loading);
             }
+        }
 
-            // ---- Playing ----
-
-            private void OnEnterPlaying()
+        /// <summary>游玩：解锁输入，广播恢复事件。</summary>
+        private class PlayingState : FsmState<GameFlowState>
+        {
+            public override void OnEnter()
             {
                 Log.Info("流程：Playing", LogChannel.Core);
                 InputReader.Instance.Unlock();
                 EventCenter.Instance.Publish(EventResume);
             }
 
-            private void OnUpdatePlaying()
+            public override void OnUpdate()
             {
                 // 骨架版：暂停键还没在 Input Actions 里配，等配好再加 InputReader.PausePressed
             }
 
-            private void OnExitPlaying()
+            public override void OnExit()
             {
                 InputReader.Instance.Lock();
             }
+        }
 
-            // ---- Paused ----
-
-            private void OnEnterPaused()
+        /// <summary>暂停：锁输入，广播暂停事件。</summary>
+        private class PausedState : FsmState<GameFlowState>
+        {
+            public override void OnEnter()
             {
                 Log.Info("流程：Paused", LogChannel.Core);
                 InputReader.Instance.Lock();
                 EventCenter.Instance.Publish(EventPause);
             }
 
-            private void OnUpdatePaused()
+            public override void OnUpdate()
             {
                 // 骨架版：回游戏 / 回标题由 UI 按钮决定，这里先留空
             }
 
-            private void OnExitPaused()
+            public override void OnExit()
             {
                 InputReader.Instance.Unlock();
             }

@@ -2,12 +2,15 @@ using Reverie.Framework;
 
 namespace Reverie.Game
 {
-    public abstract class PlayerState : FsmState<PlayerStateId>
+    public class PlayerStateMachine : FsmBase<PlayerStateId>
     {
-        protected PlayerController Player { get; }
-        protected PlayerState(PlayerController player)
+        public PlayerContext Ctx;
+        public PlayerStateMachine(PlayerContext ctx)
         {
-            Player = player;
+            Ctx = ctx;
+            
+            Register(PlayerStateId.Ground_Idle,new IdleState(this));
+            Register(PlayerStateId.Ground_Move,new MoveState(this));
             
         }
         

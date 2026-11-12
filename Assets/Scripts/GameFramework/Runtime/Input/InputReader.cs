@@ -8,7 +8,7 @@ namespace Reverie.Framework
     ///
     ///   Vector2 move = InputReader.Instance.MoveAxis;      // 移动轴，-1 ~ 1
     ///   bool jump    = InputReader.Instance.JumpPressed;   // 本帧是否按下跳跃
-    ///   InputReader.Instance.Lock();                        // 切房间 / 过场时锁输入
+    ///   InputReader.Instance.Lock();                        // 切房间 / 过场时锁移动
     ///   InputReader.Instance.Unlock();
     ///
     /// 动作配置在 Assets/InputSystem_Actions.inputactions 的 Player 表里。
@@ -27,8 +27,10 @@ namespace Reverie.Framework
         public bool Locked => _lockCount > 0;
 
         public Vector2 MoveAxis => Locked ? Vector2.zero : _move.ReadValue<Vector2>();
-        public bool JumpPressed => !Locked && _jump.WasPressedThisFrame();
-        public bool JumpHeld => !Locked && _jump.IsPressed();
+
+        // 跳跃不受锁影响：标题页要锁住移动，但仍要能按跳跃键开始游戏
+        public bool JumpPressed => _jump.WasPressedThisFrame();
+        public bool JumpHeld => _jump.IsPressed();
 
         public void Lock() => _lockCount++;
         public void Unlock() => _lockCount = Mathf.Max(0, _lockCount - 1);
