@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: b35a166d38cb2a044b5fa45017e05895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 846166280531908999
+    second: top down tileset_0
+  - first:
+      213: -8338467672454456367
+    second: top down tileset_1
+  - first:
+      213: 4950653424698845922
+    second: top down tileset_2
+  - first:
+      213: 7461285010286931697
+    second: top down tileset_3
+  - first:
+      213: 8856750453820747354
+    second: top down tileset_4
+  - first:
+      213: 3562074554908613004
+    second: top down tileset_5
+  - first:
+      213: 6286977082444200475
+    second: top down tileset_6
+  - first:
+      213: 3529814395084872144
+    second: top down tileset_7
+  - first:
+      213: 3895287698420258229
+    second: top down tileset_8
+  - first:
+      213: -3670259113162920111
+    second: top down tileset_9
+  - first:
+      213: 170619260867398385
+    second: top down tileset_10
+  - first:
+      213: -4954877804914262621
+    second: top down tileset_11
+  - first:
+      213: -1831979316428561194
+    second: top down tileset_12
+  - first:
+      213: -3027650544004953936
+    second: top down tileset_13
+  - first:
+      213: 2229843441749878719
+    second: top down tileset_14
+  - first:
+      213: 787086555519531453
+    second: top down tileset_15
+  - first:
+      213: -8955879507599905146
+    second: top down tileset_16
+  - first:
+      213: 7741006960793099321
+    second: top down tileset_17
+  - first:
+      213: 4578065714986212942
+    second: top down tileset_18
+  - first:
+      213: -6510210518318876866
+    second: top down tileset_19
+  - first:
+      213: 1017013093467126075
+    second: top down tileset_20
+  - first:
+      213: 3803068352928765902
+    second: top down tileset_21
+  - first:
+      213: -4403947744258628755
+    second: top down tileset_22
+  - first:
+      213: -4512158626615758912
+    second: top down tileset_23
+  - first:
+      213: -3426294634442427718
+    second: top down tileset_24
+  - first:
+      213: -5106111549611567442
+    second: top down tileset_25
+  - first:
+      213: -2289740679530248497
+    second: top down tileset_26
+  - first:
+      213: -7587197639518415728
+    second: top down tileset_27
+  - first:
+      213: -7895327030702124930
+    second: top down tileset_28
+  - first:
+      213: 4485286507067979322
+    second: top down tileset_29
+  - first:
+      213: 3320842476970907324
+    second: top down tileset_30
+  - first:
+      213: -7894447960574095458
+    second: top down tileset_31
+  - first:
+      213: 126377079634661497
+    second: top down tileset_32
+  - first:
+      213: -2491504765635985346
+    second: top down tileset_33
+  - first:
+      213: -5432172236246720160
+    second: top down tileset_34
+  - first:
+      213: -9156830198539258920
+    second: top down tileset_35
+  - first:
+      213: 7785651897135957037
+    second: top down tileset_36
+  - first:
+      213: 6370303145646389780
+    second: top down tileset_37
+  - first:
+      213: 8607884956647611535
+    second: top down tileset_38
+  - first:
+      213: -8751407258073450392
+    second: top down tileset_39
+  - first:
+      213: 8092694154744869598
+    second: top down tileset_40
+  - first:
+      213: 3635873735120866073
+    second: top down tileset_41
+  - first:
+      213: 6208372165511681631
+    second: top down tileset_42
+  - first:
+      213: 1893373011875658560
+    second: top down tileset_43
+  - first:
+      213: -4561808771797149776
+    second: top down tileset_44
+  - first:
+      213: -541641697857144022
+    second: top down tileset_45
+  - first:
+      213: 8847595539110145752
+    second: top down tileset_46
+  - first:
+      213: -3858011902860101275
+    second: top down tileset_47
+  - first:
+      213: 795499286302426514
+    second: top down tileset_48
+  - first:
+      213: -5863289305655207479
+    second: top down tileset_49
+  - first:
+      213: 1990708827646186810
+    second: top down tileset_50
+  - first:
+      213: 450957865078690850
+    second: top down tileset_51
+  - first:
+      213: -6281062291980411379
+    second: top down tileset_52
+  - first:
+      213: -6754365406794755966
+    second: top down tileset_53
+  - first:
+      213: 3703540635960045429
+    second: top down tileset_54
+  - first:
+      213: -511821010492282264
+    second: top down tileset_55
+  - first:
+      213: 472545950040889191
+    second: top down tileset_56
+  - first:
+      213: 5847736440708096727
+    second: top down tileset_57
+  - first:
+      213: -2471738607308581136
+    second: top down tileset_58
+  - first:
+      213: -7672337107818645868
+    second: top down tileset_59
+  - first:
+      213: 5202149356839087340
+    second: top down tileset_60
+  - first:
+      213: -7679342178626796488
+    second: top down tileset_61
+  - first:
+      213: 6614302986626723688
+    second: top down tileset_62
+  - first:
+      213: 4869197687414485423
+    second: top down tileset_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top down tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789940cbfbf2ebb00800000000000000
+      internalID: 846166280531908999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db164cb4dfc74c80800000000000000
+      internalID: -8338467672454456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 354
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaee316f0144b440800000000000000
+      internalID: 4950653424698845922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe691e6f2fcb8760800000000000000
+      internalID: 7461285010286931697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 327
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee348dc9f79ea70800000000000000
+      internalID: 8856750453820747354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8919cc5fe70f6130800000000000000
+      internalID: 3562074554908613004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abb1eb854df3750800000000000000
+      internalID: 6286977082444200475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d918169d7b6cf030800000000000000
+      internalID: 3529814395084872144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 109
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d94a0687de0630800000000000000
+      internalID: 3895287698420258229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa84e48ce901dc0800000000000000
+      internalID: -3670259113162920111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa47d350592e5200800000000000000
+      internalID: 170619260867398385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 212
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad3e9473ecbc3bb0800000000000000
+      internalID: -4954877804914262621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a96894808396e0800000000000000
+      internalID: -1831979316428561194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 211
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b801941fdf9bf5d0800000000000000
+      internalID: -3027650544004953936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 175
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76c3acbcef1fe10800000000000000
+      internalID: 2229843441749878719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93a355d0b4cea00800000000000000
+      internalID: 787086555519531453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eae42c90356b380800000000000000
+      internalID: -8955879507599905146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c16e531d49d6b60800000000000000
+      internalID: 7741006960793099321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 148
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ed52c138e888f30800000000000000
+      internalID: 4578065714986212942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e377792b60617a5a0800000000000000
+      internalID: -6510210518318876866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39770825082d1e00800000000000000
+      internalID: 1017013093467126075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec759d8748637c430800000000000000
+      internalID: 3803068352928765902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63e4161cd802e2c0800000000000000
+      internalID: -4403947744258628755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf6a52b2a79161c0800000000000000
+      internalID: -4512158626615758912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab27b3aee2b5370d0800000000000000
+      internalID: -3426294634442427718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea612e559927329b0800000000000000
+      internalID: -5106111549611567442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc686d8cbf43930e0800000000000000
+      internalID: -2289740679530248497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09492df02fbd4b690800000000000000
+      internalID: -7587197639518415728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d57595e92e6290800000000000000
+      internalID: -7895327030702124930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b3a96050fe3e30800000000000000
+      internalID: 4485286507067979322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 116
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb611e263a0061e20800000000000000
+      internalID: 3320842476970907324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f8c2c0869417290800000000000000
+      internalID: -7894447960574095458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 118
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970106bc84bf0c100800000000000000
+      internalID: 126377079634661497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 113
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300310cd956c6dd0800000000000000
+      internalID: -2491504765635985346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06166cbc12c0d94b0800000000000000
+      internalID: -5432172236246720160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d37f7b03776ce080800000000000000
+      internalID: -9156830198539258920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2482a976213c0c60800000000000000
+      internalID: 7785651897135957037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7ecba5fcd76850800000000000000
+      internalID: 6370303145646389780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd864f2c9557770800000000000000
+      internalID: 8607884956647611535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b1c93771cc8680800000000000000
+      internalID: -8751407258073450392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2b271f4760f4070800000000000000
+      internalID: 8092694154744869598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4d0ef5e7357230800000000000000
+      internalID: 3635873735120866073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561fb65791982650800000000000000
+      internalID: 6208372165511681631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf82809bc964a10800000000000000
+      internalID: 1893373011875658560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 77
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b715cf671331b0c0800000000000000
+      internalID: -4561808771797149776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 85
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7fabdeb3bb78f0800000000000000
+      internalID: -541641697857144022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 91
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deadf82449f8ca70800000000000000
+      internalID: 8847595539110145752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 77
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697bce6d96957ac0800000000000000
+      internalID: -3858011902860101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 79
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295022bd26e2a0b00800000000000000
+      internalID: 795499286302426514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91319017961aea0800000000000000
+      internalID: -5863289305655207479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d51ba12b60ab10800000000000000
+      internalID: 1990708827646186810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2241facf9cf124600800000000000000
+      internalID: 450957865078690850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e186abf1f25d8a0800000000000000
+      internalID: -6281062291980411379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 40
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280dfccd27ca342a0800000000000000
+      internalID: -6754365406794755966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6f91169e956330800000000000000
+      internalID: 3703540635960045429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa601b085a5e8f0800000000000000
+      internalID: -511821010492282264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679c34b902de8600800000000000000
+      internalID: 472545950040889191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d263886f45572150800000000000000
+      internalID: 5847736440708096727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6d0cd15de92bdd0800000000000000
+      internalID: -2471738607308581136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fb6bdc02668590800000000000000
+      internalID: -7672337107818645868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecabe2274fb13840800000000000000
+      internalID: 5202149356839087340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348646b9fe7d6590800000000000000
+      internalID: -7679342178626796488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe0b2b589bacb50800000000000000
+      internalID: 6614302986626723688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top down tileset_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17e73af7dd29340800000000000000
+      internalID: 4869197687414485423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      top down tileset_0: 846166280531908999
+      top down tileset_1: -8338467672454456367
+      top down tileset_10: 170619260867398385
+      top down tileset_11: -4954877804914262621
+      top down tileset_12: -1831979316428561194
+      top down tileset_13: -3027650544004953936
+      top down tileset_14: 2229843441749878719
+      top down tileset_15: 787086555519531453
+      top down tileset_16: -8955879507599905146
+      top down tileset_17: 7741006960793099321
+      top down tileset_18: 4578065714986212942
+      top down tileset_19: -6510210518318876866
+      top down tileset_2: 4950653424698845922
+      top down tileset_20: 1017013093467126075
+      top down tileset_21: 3803068352928765902
+      top down tileset_22: -4403947744258628755
+      top down tileset_23: -4512158626615758912
+      top down tileset_24: -3426294634442427718
+      top down tileset_25: -5106111549611567442
+      top down tileset_26: -2289740679530248497
+      top down tileset_27: -7587197639518415728
+      top down tileset_28: -7895327030702124930
+      top down tileset_29: 4485286507067979322
+      top down tileset_3: 7461285010286931697
+      top down tileset_30: 3320842476970907324
+      top down tileset_31: -7894447960574095458
+      top down tileset_32: 126377079634661497
+      top down tileset_33: -2491504765635985346
+      top down tileset_34: -5432172236246720160
+      top down tileset_35: -9156830198539258920
+      top down tileset_36: 7785651897135957037
+      top down tileset_37: 6370303145646389780
+      top down tileset_38: 8607884956647611535
+      top down tileset_39: -8751407258073450392
+      top down tileset_4: 8856750453820747354
+      top down tileset_40: 8092694154744869598
+      top down tileset_41: 3635873735120866073
+      top down tileset_42: 6208372165511681631
+      top down tileset_43: 1893373011875658560
+      top down tileset_44: -4561808771797149776
+      top down tileset_45: -541641697857144022
+      top down tileset_46: 8847595539110145752
+      top down tileset_47: -3858011902860101275
+      top down tileset_48: 795499286302426514
+      top down tileset_49: -5863289305655207479
+      top down tileset_5: 3562074554908613004
+      top down tileset_50: 1990708827646186810
+      top down tileset_51: 450957865078690850
+      top down tileset_52: -6281062291980411379
+      top down tileset_53: -6754365406794755966
+      top down tileset_54: 3703540635960045429
+      top down tileset_55: -511821010492282264
+      top down tileset_56: 472545950040889191
+      top down tileset_57: 5847736440708096727
+      top down tileset_58: -2471738607308581136
+      top down tileset_59: -7672337107818645868
+      top down tileset_6: 6286977082444200475
+      top down tileset_60: 5202149356839087340
+      top down tileset_61: -7679342178626796488
+      top down tileset_62: 6614302986626723688
+      top down tileset_63: 4869197687414485423
+      top down tileset_7: 3529814395084872144
+      top down tileset_8: 3895287698420258229
+      top down tileset_9: -3670259113162920111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

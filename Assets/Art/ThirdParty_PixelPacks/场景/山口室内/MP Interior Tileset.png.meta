@@ -1,0 +1,5369 @@
+fileFormatVersion: 2
+guid: 2dc35d303df728a458e1ad112eae9b03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8617781372478162677
+    second: MP Interior Tileset_0
+  - first:
+      213: 763646597950247300
+    second: MP Interior Tileset_1
+  - first:
+      213: -6581271426137343999
+    second: MP Interior Tileset_2
+  - first:
+      213: -5488635127015772584
+    second: MP Interior Tileset_3
+  - first:
+      213: 516235775514895733
+    second: MP Interior Tileset_4
+  - first:
+      213: -1632622488756382425
+    second: MP Interior Tileset_5
+  - first:
+      213: -3964025250520470918
+    second: MP Interior Tileset_6
+  - first:
+      213: -7282445090772722269
+    second: MP Interior Tileset_7
+  - first:
+      213: -7962813954411492030
+    second: MP Interior Tileset_8
+  - first:
+      213: 6781767071132933814
+    second: MP Interior Tileset_9
+  - first:
+      213: -6442136630097264136
+    second: MP Interior Tileset_10
+  - first:
+      213: -482156052001723445
+    second: MP Interior Tileset_11
+  - first:
+      213: -5565687185235654204
+    second: MP Interior Tileset_12
+  - first:
+      213: -6036280800921119850
+    second: MP Interior Tileset_13
+  - first:
+      213: 6197886869403844295
+    second: MP Interior Tileset_14
+  - first:
+      213: 2228574242099904602
+    second: MP Interior Tileset_15
+  - first:
+      213: 3876959233520068229
+    second: MP Interior Tileset_16
+  - first:
+      213: -1112543088260674382
+    second: MP Interior Tileset_17
+  - first:
+      213: 7526798562858580844
+    second: MP Interior Tileset_18
+  - first:
+      213: -7044158341469273032
+    second: MP Interior Tileset_19
+  - first:
+      213: 431457579201448151
+    second: MP Interior Tileset_20
+  - first:
+      213: 2681735076648031344
+    second: MP Interior Tileset_21
+  - first:
+      213: 3257378229597255172
+    second: MP Interior Tileset_22
+  - first:
+      213: 4650183813489190942
+    second: MP Interior Tileset_23
+  - first:
+      213: 8764003632888267657
+    second: MP Interior Tileset_24
+  - first:
+      213: -8203963804677373206
+    second: MP Interior Tileset_25
+  - first:
+      213: -7746123915908129077
+    second: MP Interior Tileset_26
+  - first:
+      213: 4778088924698413693
+    second: MP Interior Tileset_27
+  - first:
+      213: 5153696109786327743
+    second: MP Interior Tileset_28
+  - first:
+      213: 8771809131025348063
+    second: MP Interior Tileset_29
+  - first:
+      213: -8534827954769901583
+    second: MP Interior Tileset_30
+  - first:
+      213: -2623667706310044005
+    second: MP Interior Tileset_31
+  - first:
+      213: -509867354409364402
+    second: MP Interior Tileset_32
+  - first:
+      213: -561161248751944045
+    second: MP Interior Tileset_33
+  - first:
+      213: 7765009215435469443
+    second: MP Interior Tileset_34
+  - first:
+      213: -3609911392853305588
+    second: MP Interior Tileset_35
+  - first:
+      213: 2090784590193340002
+    second: MP Interior Tileset_36
+  - first:
+      213: -5428962524437190628
+    second: MP Interior Tileset_37
+  - first:
+      213: -8374113303738034250
+    second: MP Interior Tileset_38
+  - first:
+      213: 2003253180818602502
+    second: MP Interior Tileset_39
+  - first:
+      213: 562544858961670337
+    second: MP Interior Tileset_40
+  - first:
+      213: -6422310062113942218
+    second: MP Interior Tileset_41
+  - first:
+      213: 5417330733252241400
+    second: MP Interior Tileset_42
+  - first:
+      213: -4422653429646884379
+    second: MP Interior Tileset_43
+  - first:
+      213: -8902439770485576390
+    second: MP Interior Tileset_44
+  - first:
+      213: 7358710716990732566
+    second: MP Interior Tileset_45
+  - first:
+      213: 4987500800154647214
+    second: MP Interior Tileset_46
+  - first:
+      213: -6722273787689863321
+    second: MP Interior Tileset_47
+  - first:
+      213: -1384850512353811202
+    second: MP Interior Tileset_48
+  - first:
+      213: -7980181655201493408
+    second: MP Interior Tileset_49
+  - first:
+      213: 5432245223352500805
+    second: MP Interior Tileset_50
+  - first:
+      213: 5804921323435381116
+    second: MP Interior Tileset_51
+  - first:
+      213: 4287173608134402541
+    second: MP Interior Tileset_52
+  - first:
+      213: -6733014890072235577
+    second: MP Interior Tileset_53
+  - first:
+      213: -5905979355047389992
+    second: MP Interior Tileset_54
+  - first:
+      213: 3888750645991526835
+    second: MP Interior Tileset_55
+  - first:
+      213: 3629579632138178928
+    second: MP Interior Tileset_56
+  - first:
+      213: -4255992252782837461
+    second: MP Interior Tileset_57
+  - first:
+      213: -8418165680759215701
+    second: MP Interior Tileset_58
+  - first:
+      213: -3684195393954038098
+    second: MP Interior Tileset_59
+  - first:
+      213: 4305777573759675755
+    second: MP Interior Tileset_60
+  - first:
+      213: -7422491071731914512
+    second: MP Interior Tileset_61
+  - first:
+      213: -2420981725654106220
+    second: MP Interior Tileset_62
+  - first:
+      213: 5762188451515737885
+    second: MP Interior Tileset_63
+  - first:
+      213: 7890174591684360565
+    second: MP Interior Tileset_64
+  - first:
+      213: 4652447270555251131
+    second: MP Interior Tileset_65
+  - first:
+      213: 802735719751240599
+    second: MP Interior Tileset_66
+  - first:
+      213: -768701631614492780
+    second: MP Interior Tileset_67
+  - first:
+      213: 7733379840224752990
+    second: MP Interior Tileset_68
+  - first:
+      213: -8414519383881341521
+    second: MP Interior Tileset_69
+  - first:
+      213: -9016882022150727951
+    second: MP Interior Tileset_70
+  - first:
+      213: 3147973035337081878
+    second: MP Interior Tileset_71
+  - first:
+      213: -5804369054560133460
+    second: MP Interior Tileset_72
+  - first:
+      213: 2585344203879895114
+    second: MP Interior Tileset_73
+  - first:
+      213: -2025429219424151821
+    second: MP Interior Tileset_74
+  - first:
+      213: -1269312352600377715
+    second: MP Interior Tileset_75
+  - first:
+      213: -794446955878383883
+    second: MP Interior Tileset_76
+  - first:
+      213: -6541054045477295976
+    second: MP Interior Tileset_77
+  - first:
+      213: 2726388984482532554
+    second: MP Interior Tileset_78
+  - first:
+      213: -1225466133743558523
+    second: MP Interior Tileset_79
+  - first:
+      213: -5506493782476186179
+    second: MP Interior Tileset_80
+  - first:
+      213: 2354185786471853552
+    second: MP Interior Tileset_81
+  - first:
+      213: -4880086979461164406
+    second: MP Interior Tileset_82
+  - first:
+      213: 6986195173711129466
+    second: MP Interior Tileset_83
+  - first:
+      213: -8966381025392253453
+    second: MP Interior Tileset_84
+  - first:
+      213: -8051475473139474348
+    second: MP Interior Tileset_85
+  - first:
+      213: 8688274231355739647
+    second: MP Interior Tileset_86
+  - first:
+      213: -2305643006260172517
+    second: MP Interior Tileset_87
+  - first:
+      213: 2444545346852154893
+    second: MP Interior Tileset_88
+  - first:
+      213: 7482978532818203738
+    second: MP Interior Tileset_89
+  - first:
+      213: -1567439399826208464
+    second: MP Interior Tileset_90
+  - first:
+      213: -155169677661371996
+    second: MP Interior Tileset_91
+  - first:
+      213: 5369025152713925218
+    second: MP Interior Tileset_92
+  - first:
+      213: -5784033528523079901
+    second: MP Interior Tileset_93
+  - first:
+      213: 9076877030066690001
+    second: MP Interior Tileset_94
+  - first:
+      213: -8891335029938116053
+    second: MP Interior Tileset_95
+  - first:
+      213: -6084495891366258906
+    second: MP Interior Tileset_96
+  - first:
+      213: -1307981157288818282
+    second: MP Interior Tileset_97
+  - first:
+      213: -3648710895406223261
+    second: MP Interior Tileset_98
+  - first:
+      213: -2837217891502143619
+    second: MP Interior Tileset_99
+  - first:
+      213: -3941449054120264148
+    second: MP Interior Tileset_100
+  - first:
+      213: 5974401551339996275
+    second: MP Interior Tileset_101
+  - first:
+      213: 6159335278659397130
+    second: MP Interior Tileset_102
+  - first:
+      213: -2131308964962237470
+    second: MP Interior Tileset_103
+  - first:
+      213: -7163972198827260231
+    second: MP Interior Tileset_104
+  - first:
+      213: -4993554929494164466
+    second: MP Interior Tileset_105
+  - first:
+      213: 122335780973341321
+    second: MP Interior Tileset_106
+  - first:
+      213: 3053197250834378445
+    second: MP Interior Tileset_107
+  - first:
+      213: 8003160486243548556
+    second: MP Interior Tileset_108
+  - first:
+      213: 670981671668599143
+    second: MP Interior Tileset_109
+  - first:
+      213: -2129526179506012686
+    second: MP Interior Tileset_110
+  - first:
+      213: 2701478798292281305
+    second: MP Interior Tileset_111
+  - first:
+      213: -7557876800679029898
+    second: MP Interior Tileset_112
+  - first:
+      213: 4735747182233902385
+    second: MP Interior Tileset_113
+  - first:
+      213: 8190701528937554348
+    second: MP Interior Tileset_114
+  - first:
+      213: 5127582538180552785
+    second: MP Interior Tileset_115
+  - first:
+      213: -1697259446982389293
+    second: MP Interior Tileset_116
+  - first:
+      213: 1638757280547402657
+    second: MP Interior Tileset_117
+  - first:
+      213: 6264714228645224570
+    second: MP Interior Tileset_118
+  - first:
+      213: -4610107272966490730
+    second: MP Interior Tileset_119
+  - first:
+      213: 928847336541661767
+    second: MP Interior Tileset_120
+  - first:
+      213: -1064294458591117749
+    second: MP Interior Tileset_121
+  - first:
+      213: -8922860943332587205
+    second: MP Interior Tileset_122
+  - first:
+      213: 370485954613389951
+    second: MP Interior Tileset_123
+  - first:
+      213: 4606975298619723326
+    second: MP Interior Tileset_124
+  - first:
+      213: -8538539970540550931
+    second: MP Interior Tileset_125
+  - first:
+      213: 1266867261808297638
+    second: MP Interior Tileset_126
+  - first:
+      213: -4098872060926867130
+    second: MP Interior Tileset_127
+  - first:
+      213: -3042800243011438825
+    second: MP Interior Tileset_128
+  - first:
+      213: 7767988631456066151
+    second: MP Interior Tileset_129
+  - first:
+      213: -8984725998373875831
+    second: MP Interior Tileset_130
+  - first:
+      213: 5277043631415256914
+    second: MP Interior Tileset_131
+  - first:
+      213: 2204722952989858767
+    second: MP Interior Tileset_132
+  - first:
+      213: -7568507756690535491
+    second: MP Interior Tileset_133
+  - first:
+      213: 9176184730216857744
+    second: MP Interior Tileset_134
+  - first:
+      213: -2007934276006591710
+    second: MP Interior Tileset_135
+  - first:
+      213: -7431828174229874850
+    second: MP Interior Tileset_136
+  - first:
+      213: 3189778858501892331
+    second: MP Interior Tileset_137
+  - first:
+      213: -6778272189249101590
+    second: MP Interior Tileset_138
+  - first:
+      213: 588487502054319516
+    second: MP Interior Tileset_139
+  - first:
+      213: 754063738704698600
+    second: MP Interior Tileset_140
+  - first:
+      213: 374684940352353740
+    second: MP Interior Tileset_141
+  - first:
+      213: 7153840515887491908
+    second: MP Interior Tileset_142
+  - first:
+      213: 8851931437553260411
+    second: MP Interior Tileset_143
+  - first:
+      213: -982994429844586256
+    second: MP Interior Tileset_144
+  - first:
+      213: -7018547711025772316
+    second: MP Interior Tileset_145
+  - first:
+      213: -5670032275743747952
+    second: MP Interior Tileset_146
+  - first:
+      213: -2891427961721730552
+    second: MP Interior Tileset_147
+  - first:
+      213: 4480720064976696841
+    second: MP Interior Tileset_148
+  - first:
+      213: -621931704264719716
+    second: MP Interior Tileset_149
+  - first:
+      213: 6111700719775851314
+    second: MP Interior Tileset_150
+  - first:
+      213: -6985848442686709814
+    second: MP Interior Tileset_151
+  - first:
+      213: 3100338420642924473
+    second: MP Interior Tileset_152
+  - first:
+      213: -1596781512863660960
+    second: MP Interior Tileset_153
+  - first:
+      213: 6500928484419672650
+    second: MP Interior Tileset_154
+  - first:
+      213: -6984500280419187970
+    second: MP Interior Tileset_155
+  - first:
+      213: -7475033479225912877
+    second: MP Interior Tileset_156
+  - first:
+      213: -3616168327959902899
+    second: MP Interior Tileset_157
+  - first:
+      213: 2757235167278316482
+    second: MP Interior Tileset_158
+  - first:
+      213: 5140479568449553032
+    second: MP Interior Tileset_159
+  - first:
+      213: -3565959437428210393
+    second: MP Interior Tileset_160
+  - first:
+      213: 1723570961370453984
+    second: MP Interior Tileset_161
+  - first:
+      213: -3832196262718746665
+    second: MP Interior Tileset_162
+  - first:
+      213: -4603898034251343669
+    second: MP Interior Tileset_163
+  - first:
+      213: 8189245350035445335
+    second: MP Interior Tileset_164
+  - first:
+      213: -784382004187536548
+    second: MP Interior Tileset_165
+  - first:
+      213: -2184930562239254425
+    second: MP Interior Tileset_166
+  - first:
+      213: -930922136436832640
+    second: MP Interior Tileset_167
+  - first:
+      213: 5785945681935338117
+    second: MP Interior Tileset_168
+  - first:
+      213: 8670135557910494749
+    second: MP Interior Tileset_169
+  - first:
+      213: 3345301829985112988
+    second: MP Interior Tileset_170
+  - first:
+      213: 6521942056748384192
+    second: MP Interior Tileset_171
+  - first:
+      213: -3010877672679262815
+    second: MP Interior Tileset_172
+  - first:
+      213: 3129404796474693282
+    second: MP Interior Tileset_173
+  - first:
+      213: 2055543632787467656
+    second: MP Interior Tileset_174
+  - first:
+      213: 8643519757338834178
+    second: MP Interior Tileset_175
+  - first:
+      213: 4347945343465537888
+    second: MP Interior Tileset_176
+  - first:
+      213: -3615579457192632503
+    second: MP Interior Tileset_177
+  - first:
+      213: -590887820631068799
+    second: MP Interior Tileset_178
+  - first:
+      213: -6472600163674214992
+    second: MP Interior Tileset_179
+  - first:
+      213: -7884120578787408136
+    second: MP Interior Tileset_180
+  - first:
+      213: -1106436048746855593
+    second: MP Interior Tileset_181
+  - first:
+      213: 9075871365021993980
+    second: MP Interior Tileset_182
+  - first:
+      213: -234258651914081623
+    second: MP Interior Tileset_183
+  - first:
+      213: 5407140394153339865
+    second: MP Interior Tileset_184
+  - first:
+      213: 9002170569414611810
+    second: MP Interior Tileset_185
+  - first:
+      213: 2822254711890604255
+    second: MP Interior Tileset_186
+  - first:
+      213: -3175204031321843824
+    second: MP Interior Tileset_187
+  - first:
+      213: 7568699768997239
+    second: MP Interior Tileset_188
+  - first:
+      213: 3502897294950221546
+    second: MP Interior Tileset_189
+  - first:
+      213: 9151977384750949548
+    second: MP Interior Tileset_190
+  - first:
+      213: 5402551993678853394
+    second: MP Interior Tileset_191
+  - first:
+      213: 8780214064625980401
+    second: MP Interior Tileset_192
+  - first:
+      213: 4263060111802353197
+    second: MP Interior Tileset_193
+  - first:
+      213: -7217141266605958174
+    second: MP Interior Tileset_194
+  - first:
+      213: 7371372716962919736
+    second: MP Interior Tileset_195
+  - first:
+      213: -580088480153873623
+    second: MP Interior Tileset_196
+  - first:
+      213: 4363003284353007844
+    second: MP Interior Tileset_197
+  - first:
+      213: 766820657200267654
+    second: MP Interior Tileset_198
+  - first:
+      213: -8839169230140754591
+    second: MP Interior Tileset_199
+  - first:
+      213: -2943059885293181908
+    second: MP Interior Tileset_200
+  - first:
+      213: -4332169193621979184
+    second: MP Interior Tileset_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MP Interior Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f57d208d776880800000000000000
+      internalID: -8617781372478162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 372
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48192cce884099a00800000000000000
+      internalID: 763646597950247300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108b7aac180aaa4a0800000000000000
+      internalID: -6581271426137343999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 373
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6e789e6374d3b0800000000000000
+      internalID: -5488635127015772584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e9e3e3b90a2700800000000000000
+      internalID: 516235775514895733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259c591f72c759e0800000000000000
+      internalID: -1632622488756382425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a6c067904fcf8c0800000000000000
+      internalID: -3964025250520470918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad543426ce8fea90800000000000000
+      internalID: -7282445090772722269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d87c2b5e66e7190800000000000000
+      internalID: -7962813954411492030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bed158483dad1e50800000000000000
+      internalID: 6781767071132933814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f14588eddee896a0800000000000000
+      internalID: -6442136630097264136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe12210a90f49f0800000000000000
+      internalID: -482156052001723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9c5194ef4b2c2b0800000000000000
+      internalID: -5565687185235654204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 373
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6931698d792da3ca0800000000000000
+      internalID: -6036280800921119850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cebfd81541530650800000000000000
+      internalID: 6197886869403844295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5043f7377c7dee10800000000000000
+      internalID: 2228574242099904602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58662a2c1e9bdc530800000000000000
+      internalID: 3876959233520068229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc08eaa4f37f80f0800000000000000
+      internalID: -1112543088260674382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 359
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3b1b0a6f847860800000000000000
+      internalID: 7526798562858580844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 271
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348e1b5f4f1e3e90800000000000000
+      internalID: -7044158341469273032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 271
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c3ffd168dcf500800000000000000
+      internalID: 431457579201448151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 360
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749f4108df673520800000000000000
+      internalID: 2681735076648031344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 266
+        width: 9
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063c32dd38843d20800000000000000
+      internalID: 3257378229597255172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 266
+        width: 9
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186b476a85c88040800000000000000
+      internalID: 4650183813489190942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 360
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983c984dedeff9970800000000000000
+      internalID: 8764003632888267657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 266
+        width: 9
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20b08d26aa52e80800000000000000
+      internalID: -8203963804677373206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 266
+        width: 9
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce5326d65d308490800000000000000
+      internalID: -7746123915908129077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a80e5cf8e2f4240800000000000000
+      internalID: 4778088924698413693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba60207e4b958740800000000000000
+      internalID: 5153696109786327743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd53b4cfde9bbb970800000000000000
+      internalID: 8771809131025348063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 335
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7cdd0d1333e8980800000000000000
+      internalID: -8534827954769901583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 335
+        width: 103
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96d9b43f1cd69bd0800000000000000
+      internalID: -2623667706310044005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e449cd1b7569ce8f0800000000000000
+      internalID: -509867354409364402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 324
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39efc6241da5638f0800000000000000
+      internalID: -561161248751944045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 324
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827aab9dbad2cb60800000000000000
+      internalID: 7765009215435469443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 324
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d75ed6b407edc0800000000000000
+      internalID: -3609911392853305588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea550e185f30d10800000000000000
+      internalID: 2090784590193340002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186300195378a4b0800000000000000
+      internalID: -5428962524437190628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 325
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b752d5715c29cb80800000000000000
+      internalID: -8374113303738034250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3ddd772cfccb10800000000000000
+      internalID: 2003253180818602502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 325
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f1a8919f8ec700800000000000000
+      internalID: 562544858961670337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 325
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635184e760f5fd6a0800000000000000
+      internalID: -6422310062113942218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76e4289993e2b40800000000000000
+      internalID: 5417330733252241400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 314
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10c3153249f92c0800000000000000
+      internalID: -4422653429646884379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 309
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da5e5223e247480800000000000000
+      internalID: -8902439770485576390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 314
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619b713b8646f1660800000000000000
+      internalID: 7358710716990732566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 309
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab1368d89273540800000000000000
+      internalID: 4987500800154647214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 306
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76773d13b9fa5b2a0800000000000000
+      internalID: -6722273787689863321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 314
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42228dbc508cce0800000000000000
+      internalID: -1384850512353811202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e40aeb013b04190800000000000000
+      internalID: -7980181655201493408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 296
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5420db6df36336b40800000000000000
+      internalID: 5432245223352500805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d47810393f8050800000000000000
+      internalID: 5804921323435381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 313
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e743aea91f7b30800000000000000
+      internalID: 4287173608134402541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 308
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c124d961a68f82a0800000000000000
+      internalID: -6733014890072235577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 314
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d41c9b511fb90ea0800000000000000
+      internalID: -5905979355047389992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 308
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1556aeb1e97f530800000000000000
+      internalID: 3888750645991526835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 306
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071d691f17bde5230800000000000000
+      internalID: 3629579632138178928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 302
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b218016689dafe4c0800000000000000
+      internalID: -4255992252782837461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 296
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba966f92aeaac2b80800000000000000
+      internalID: -8418165680759215701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3d341fcb1fdcc0800000000000000
+      internalID: -3684195393954038098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 296
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de9cde3e131cb30800000000000000
+      internalID: 4305777573759675755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f829e042b30ef890800000000000000
+      internalID: -7422491071731914512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fbcaa82f1f66ed0800000000000000
+      internalID: -2420981725654106220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1724750ed767ff40800000000000000
+      internalID: 5762188451515737885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b829bcf78f7d60800000000000000
+      internalID: 7890174591684360565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 301
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb17ea19420d09040800000000000000
+      internalID: 4652447270555251131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 294
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b4a4052e3e32b00800000000000000
+      internalID: 802735719751240599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 301
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fda5550f50555f0800000000000000
+      internalID: -768701631614492780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 277
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5573c1ddfb725b60800000000000000
+      internalID: 7733379840224752990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 277
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52d10d33f993b80800000000000000
+      internalID: -8414519383881341521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 289
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6991803999dd280800000000000000
+      internalID: -9016882022150727951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 289
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61466c50cc8dfab20800000000000000
+      internalID: 3147973035337081878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5ca5091db27fa0800000000000000
+      internalID: -5804369054560133460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40506e0bdcf0e320800000000000000
+      internalID: 2585344203879895114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 284
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6d68a2bda34e3e0800000000000000
+      internalID: -2025429219424151821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863d32f32f726ee0800000000000000
+      internalID: -1269312352600377715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 289
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe7af9e3be89f4f0800000000000000
+      internalID: -794446955878383883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 290
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a1ba60028935a0800000000000000
+      internalID: -6541054045477295976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 282
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc8e9b165416d520800000000000000
+      internalID: 2726388984482532554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 284
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580a1fd4b054efee0800000000000000
+      internalID: -1225466133743558523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 284
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd1c9954110593b0800000000000000
+      internalID: -5506493782476186179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdade1ff7fbba020800000000000000
+      internalID: 2354185786471853552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82553c7fb2764cb0800000000000000
+      internalID: -4880086979461164406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 283
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba99cfe73f3f060800000000000000
+      internalID: 6986195173711129466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 274
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f521bc96f3019380800000000000000
+      internalID: -8966381025392253453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 277
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45060c937b9634090800000000000000
+      internalID: -8051475473139474348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd83278163f29870800000000000000
+      internalID: 8688274231355739647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 272
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19aff0d6e5b000e0800000000000000
+      internalID: -2305643006260172517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 277
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee47c8a05cce120800000000000000
+      internalID: 2444545346852154893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 278
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b08e3451e8d760800000000000000
+      internalID: 7482978532818203738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 272
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394866ab265f3ae0800000000000000
+      internalID: -1567439399826208464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a10513100ab8ddf0800000000000000
+      internalID: -155169677661371996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 272
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a6a91eeb928a40800000000000000
+      internalID: 5369025152713925218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 278
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fbe63a62cfabfa0800000000000000
+      internalID: -5784033528523079901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 278
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71707419b87fd70800000000000000
+      internalID: 9076877030066690001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2d8906e1ab9480800000000000000
+      internalID: -8891335029938116053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 278
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6275acd49378f8ba0800000000000000
+      internalID: -6084495891366258906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 272
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69945e2411e19dde0800000000000000
+      internalID: -1307981157288818282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 250
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360f637b5cc2d5dc0800000000000000
+      internalID: -3648710895406223261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 242
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c1a22c5d20a8d0800000000000000
+      internalID: -2837217891502143619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 242
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ebcdcc7f82d49c0800000000000000
+      internalID: -3941449054120264148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 250
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c925ae8659e250800000000000000
+      internalID: 5974401551339996275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0666096dca5a7550800000000000000
+      internalID: 6159335278659397130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 242
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e302dcd9c11c62e0800000000000000
+      internalID: -2131308964962237470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68024dd35749c90800000000000000
+      internalID: -7163972198827260231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 198
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7915af3453bab0800000000000000
+      internalID: -4993554929494164466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a6c30aebf92b100800000000000000
+      internalID: 122335780973341321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 187
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceae2d19b22f5a20800000000000000
+      internalID: 3053197250834378445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 187
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3df64f00f01f60800000000000000
+      internalID: 8003160486243548556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 201
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ca9e764ecf4900800000000000000
+      internalID: 670981671668599143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 202
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd36a2f8376272e0800000000000000
+      internalID: -2129526179506012686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 159
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7e57c67a49d7520800000000000000
+      internalID: 2701478798292281305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 159
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735c57d7170d1790800000000000000
+      internalID: -7557876800679029898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 208
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ddb1f98f0c8b140800000000000000
+      internalID: 4735747182233902385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca16295f4a73ba170800000000000000
+      internalID: 8190701528937554348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586fb0c625d82740800000000000000
+      internalID: 5127582538180552785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 184
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d150f2868f1278e0800000000000000
+      internalID: -1697259446982389293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3fc1c60190eb610800000000000000
+      internalID: 1638757280547402657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 183
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ebb9266cb0f650800000000000000
+      internalID: 6264714228645224570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69533625cdb9500c0800000000000000
+      internalID: -4610107272966490730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 178
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a22293bbde3ec00800000000000000
+      internalID: 928847336541661767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e724b24ddda31f0800000000000000
+      internalID: -1064294458591117749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3944745f31ab2480800000000000000
+      internalID: -8922860943332587205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 175
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa007430b342500800000000000000
+      internalID: 370485954613389951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e4a3310a34fef30800000000000000
+      internalID: 4606975298619723326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 178
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c47bc223018980800000000000000
+      internalID: -8538539970540550931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 154
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c7adff01d49110800000000000000
+      internalID: 1266867261808297638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 134
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494eacc391ed17c0800000000000000
+      internalID: -4098872060926867130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717b4d8ec4dc5c5d0800000000000000
+      internalID: -3042800243011438825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2635f0807dcb60800000000000000
+      internalID: 7767988631456066151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f45bebe47df4380800000000000000
+      internalID: -8984725998373875831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576eba4933db3940800000000000000
+      internalID: 5277043631415256914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb5c1938dfb89e10800000000000000
+      internalID: 2204722952989858767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb0ca28b4247f690800000000000000
+      internalID: -7568507756690535491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 117
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09080f5056b585f70800000000000000
+      internalID: 9176184730216857744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 117
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223cb4a1a626224e0800000000000000
+      internalID: -2007934276006591710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57d94ba6a7dcd890800000000000000
+      internalID: -7431828174229874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be86e0db8fe544c20800000000000000
+      internalID: 3189778858501892331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 144
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e5e05b5dbee1a0800000000000000
+      internalID: -6778272189249101590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9564b2e34aba2800800000000000000
+      internalID: 588487502054319516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1f73a9f8f67a00800000000000000
+      internalID: 754063738704698600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f364d7f5233500800000000000000
+      internalID: 374684940352353740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b6549eb0c874360800000000000000
+      internalID: 7153840515887491908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77997f2eb068da70800000000000000
+      internalID: 8851931437553260411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f00de036c3bb52f0800000000000000
+      internalID: -982994429844586256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 106
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88d2dea0c199e90800000000000000
+      internalID: -7018547711025772316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0905b43bfafff41b0800000000000000
+      internalID: -5670032275743747952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 95
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ac1f796959fd7d0800000000000000
+      internalID: -2891427961721730552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b6e2c827be2e30800000000000000
+      internalID: 4480720064976696841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 93
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c928fbcf8647e57f0800000000000000
+      internalID: -621931704264719716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332db76c6f11d450800000000000000
+      internalID: 6111700719775851314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf51fe9ad74d0f90800000000000000
+      internalID: -6985848442686709814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cae50e5d960b20800000000000000
+      internalID: 3100338420642924473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c9d59ca717d9e0800000000000000
+      internalID: -1596781512863660960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 61
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9d006300f73a50800000000000000
+      internalID: 6500928484419672650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef28ffb1002121f90800000000000000
+      internalID: -6984500280419187970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15692b7a8534890800000000000000
+      internalID: -7475033479225912877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458ee3a01ac0ddc0800000000000000
+      internalID: -3616168327959902899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbb6d3b6caa34620800000000000000
+      internalID: 2757235167278316482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 79
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882c69c9ee6a65740800000000000000
+      internalID: 5140479568449553032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 84
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c3a0f8ca238ec0800000000000000
+      internalID: -3565959437428210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e71aa158aa5be710800000000000000
+      internalID: 1723570961370453984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 84
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc11b8dcd41dac0800000000000000
+      internalID: -3832196262718746665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8545e512bab10c0800000000000000
+      internalID: -4603898034251343669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d163e14b06a170800000000000000
+      internalID: 8189245350035445335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53613819b05d15f0800000000000000
+      internalID: -784382004187536548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b5dada319da1e0800000000000000
+      internalID: -2184930562239254425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0868228cf33b413f0800000000000000
+      internalID: -930922136436832640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a067541fecb4050800000000000000
+      internalID: 5785945681935338117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efcb38a52825870800000000000000
+      internalID: 8670135557910494749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c931aba4a46ec6e20800000000000000
+      internalID: 3345301829985112988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cffa22feb7928a50800000000000000
+      internalID: 6521942056748384192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a53cc185b63736d0800000000000000
+      internalID: -3010877672679262815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a617440511ed6b20800000000000000
+      internalID: 3129404796474693282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dec941b02c68c10800000000000000
+      internalID: 2055543632787467656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 43
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20570498c63f3f770800000000000000
+      internalID: 8643519757338834178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 49
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c314e041075c30800000000000000
+      internalID: 4347945343465537888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 67
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f55dcc3a1e2ddc0800000000000000
+      internalID: -3615579457192632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 69
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2e2568aebcc7f0800000000000000
+      internalID: -590887820631068799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 69
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd2017c174bc26a0800000000000000
+      internalID: -6472600163674214992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6870ffa1af59290800000000000000
+      internalID: -7884120578787408136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 69
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753c1cb964625a0f0800000000000000
+      internalID: -1106436048746855593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8643abe8f3fd70800000000000000
+      internalID: 9075871365021993980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa691b4ffebfbcf0800000000000000
+      internalID: -234258651914081623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbec2c4a850a0b40800000000000000
+      internalID: 5407140394153339865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 55
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631f65ff622eec70800000000000000
+      internalID: 9002170569414611810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 55
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd079ef15b9aa2720800000000000000
+      internalID: 2822254711890604255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975ca7a1c86fe3d0800000000000000
+      internalID: -3175204031321843824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775842d31b3ea1000800000000000000
+      internalID: 7568699768997239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64f26d78acc9030800000000000000
+      internalID: 3502897294950221546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca42d7231fa520f70800000000000000
+      internalID: 9151977384750949548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2157ecf0a68b9fa40800000000000000
+      internalID: 5402551993678853394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f39be51c2699d970800000000000000
+      internalID: 8780214064625980401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26cd14c59e692b30800000000000000
+      internalID: 4263060111802353197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb932e814097db90800000000000000
+      internalID: -7217141266605958174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b49d4e606c4660800000000000000
+      internalID: 7371372716962919736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923d12ac99c13f7f0800000000000000
+      internalID: -580088480153873623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e049b5fe508c8c30800000000000000
+      internalID: 4363003284353007844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6818ade235b44aa00800000000000000
+      internalID: 766820657200267654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 15
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b5e7ca66f45580800000000000000
+      internalID: -8839169230140754591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24e56890a62827d0800000000000000
+      internalID: -2943059885293181908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MP Interior Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df754b321b01e3c0800000000000000
+      internalID: -4332169193621979184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MP Interior Tileset_0: -8617781372478162677
+      MP Interior Tileset_1: 763646597950247300
+      MP Interior Tileset_10: -6442136630097264136
+      MP Interior Tileset_100: -3941449054120264148
+      MP Interior Tileset_101: 5974401551339996275
+      MP Interior Tileset_102: 6159335278659397130
+      MP Interior Tileset_103: -2131308964962237470
+      MP Interior Tileset_104: -7163972198827260231
+      MP Interior Tileset_105: -4993554929494164466
+      MP Interior Tileset_106: 122335780973341321
+      MP Interior Tileset_107: 3053197250834378445
+      MP Interior Tileset_108: 8003160486243548556
+      MP Interior Tileset_109: 670981671668599143
+      MP Interior Tileset_11: -482156052001723445
+      MP Interior Tileset_110: -2129526179506012686
+      MP Interior Tileset_111: 2701478798292281305
+      MP Interior Tileset_112: -7557876800679029898
+      MP Interior Tileset_113: 4735747182233902385
+      MP Interior Tileset_114: 8190701528937554348
+      MP Interior Tileset_115: 5127582538180552785
+      MP Interior Tileset_116: -1697259446982389293
+      MP Interior Tileset_117: 1638757280547402657
+      MP Interior Tileset_118: 6264714228645224570
+      MP Interior Tileset_119: -4610107272966490730
+      MP Interior Tileset_12: -5565687185235654204
+      MP Interior Tileset_120: 928847336541661767
+      MP Interior Tileset_121: -1064294458591117749
+      MP Interior Tileset_122: -8922860943332587205
+      MP Interior Tileset_123: 370485954613389951
+      MP Interior Tileset_124: 4606975298619723326
+      MP Interior Tileset_125: -8538539970540550931
+      MP Interior Tileset_126: 1266867261808297638
+      MP Interior Tileset_127: -4098872060926867130
+      MP Interior Tileset_128: -3042800243011438825
+      MP Interior Tileset_129: 7767988631456066151
+      MP Interior Tileset_13: -6036280800921119850
+      MP Interior Tileset_130: -8984725998373875831
+      MP Interior Tileset_131: 5277043631415256914
+      MP Interior Tileset_132: 2204722952989858767
+      MP Interior Tileset_133: -7568507756690535491
+      MP Interior Tileset_134: 9176184730216857744
+      MP Interior Tileset_135: -2007934276006591710
+      MP Interior Tileset_136: -7431828174229874850
+      MP Interior Tileset_137: 3189778858501892331
+      MP Interior Tileset_138: -6778272189249101590
+      MP Interior Tileset_139: 588487502054319516
+      MP Interior Tileset_14: 6197886869403844295
+      MP Interior Tileset_140: 754063738704698600
+      MP Interior Tileset_141: 374684940352353740
+      MP Interior Tileset_142: 7153840515887491908
+      MP Interior Tileset_143: 8851931437553260411
+      MP Interior Tileset_144: -982994429844586256
+      MP Interior Tileset_145: -7018547711025772316
+      MP Interior Tileset_146: -5670032275743747952
+      MP Interior Tileset_147: -2891427961721730552
+      MP Interior Tileset_148: 4480720064976696841
+      MP Interior Tileset_149: -621931704264719716
+      MP Interior Tileset_15: 2228574242099904602
+      MP Interior Tileset_150: 6111700719775851314
+      MP Interior Tileset_151: -6985848442686709814
+      MP Interior Tileset_152: 3100338420642924473
+      MP Interior Tileset_153: -1596781512863660960
+      MP Interior Tileset_154: 6500928484419672650
+      MP Interior Tileset_155: -6984500280419187970
+      MP Interior Tileset_156: -7475033479225912877
+      MP Interior Tileset_157: -3616168327959902899
+      MP Interior Tileset_158: 2757235167278316482
+      MP Interior Tileset_159: 5140479568449553032
+      MP Interior Tileset_16: 3876959233520068229
+      MP Interior Tileset_160: -3565959437428210393
+      MP Interior Tileset_161: 1723570961370453984
+      MP Interior Tileset_162: -3832196262718746665
+      MP Interior Tileset_163: -4603898034251343669
+      MP Interior Tileset_164: 8189245350035445335
+      MP Interior Tileset_165: -784382004187536548
+      MP Interior Tileset_166: -2184930562239254425
+      MP Interior Tileset_167: -930922136436832640
+      MP Interior Tileset_168: 5785945681935338117
+      MP Interior Tileset_169: 8670135557910494749
+      MP Interior Tileset_17: -1112543088260674382
+      MP Interior Tileset_170: 3345301829985112988
+      MP Interior Tileset_171: 6521942056748384192
+      MP Interior Tileset_172: -3010877672679262815
+      MP Interior Tileset_173: 3129404796474693282
+      MP Interior Tileset_174: 2055543632787467656
+      MP Interior Tileset_175: 8643519757338834178
+      MP Interior Tileset_176: 4347945343465537888
+      MP Interior Tileset_177: -3615579457192632503
+      MP Interior Tileset_178: -590887820631068799
+      MP Interior Tileset_179: -6472600163674214992
+      MP Interior Tileset_18: 7526798562858580844
+      MP Interior Tileset_180: -7884120578787408136
+      MP Interior Tileset_181: -1106436048746855593
+      MP Interior Tileset_182: 9075871365021993980
+      MP Interior Tileset_183: -234258651914081623
+      MP Interior Tileset_184: 5407140394153339865
+      MP Interior Tileset_185: 9002170569414611810
+      MP Interior Tileset_186: 2822254711890604255
+      MP Interior Tileset_187: -3175204031321843824
+      MP Interior Tileset_188: 7568699768997239
+      MP Interior Tileset_189: 3502897294950221546
+      MP Interior Tileset_19: -7044158341469273032
+      MP Interior Tileset_190: 9151977384750949548
+      MP Interior Tileset_191: 5402551993678853394
+      MP Interior Tileset_192: 8780214064625980401
+      MP Interior Tileset_193: 4263060111802353197
+      MP Interior Tileset_194: -7217141266605958174
+      MP Interior Tileset_195: 7371372716962919736
+      MP Interior Tileset_196: -580088480153873623
+      MP Interior Tileset_197: 4363003284353007844
+      MP Interior Tileset_198: 766820657200267654
+      MP Interior Tileset_199: -8839169230140754591
+      MP Interior Tileset_2: -6581271426137343999
+      MP Interior Tileset_20: 431457579201448151
+      MP Interior Tileset_200: -2943059885293181908
+      MP Interior Tileset_201: -4332169193621979184
+      MP Interior Tileset_21: 2681735076648031344
+      MP Interior Tileset_22: 3257378229597255172
+      MP Interior Tileset_23: 4650183813489190942
+      MP Interior Tileset_24: 8764003632888267657
+      MP Interior Tileset_25: -8203963804677373206
+      MP Interior Tileset_26: -7746123915908129077
+      MP Interior Tileset_27: 4778088924698413693
+      MP Interior Tileset_28: 5153696109786327743
+      MP Interior Tileset_29: 8771809131025348063
+      MP Interior Tileset_3: -5488635127015772584
+      MP Interior Tileset_30: -8534827954769901583
+      MP Interior Tileset_31: -2623667706310044005
+      MP Interior Tileset_32: -509867354409364402
+      MP Interior Tileset_33: -561161248751944045
+      MP Interior Tileset_34: 7765009215435469443
+      MP Interior Tileset_35: -3609911392853305588
+      MP Interior Tileset_36: 2090784590193340002
+      MP Interior Tileset_37: -5428962524437190628
+      MP Interior Tileset_38: -8374113303738034250
+      MP Interior Tileset_39: 2003253180818602502
+      MP Interior Tileset_4: 516235775514895733
+      MP Interior Tileset_40: 562544858961670337
+      MP Interior Tileset_41: -6422310062113942218
+      MP Interior Tileset_42: 5417330733252241400
+      MP Interior Tileset_43: -4422653429646884379
+      MP Interior Tileset_44: -8902439770485576390
+      MP Interior Tileset_45: 7358710716990732566
+      MP Interior Tileset_46: 4987500800154647214
+      MP Interior Tileset_47: -6722273787689863321
+      MP Interior Tileset_48: -1384850512353811202
+      MP Interior Tileset_49: -7980181655201493408
+      MP Interior Tileset_5: -1632622488756382425
+      MP Interior Tileset_50: 5432245223352500805
+      MP Interior Tileset_51: 5804921323435381116
+      MP Interior Tileset_52: 4287173608134402541
+      MP Interior Tileset_53: -6733014890072235577
+      MP Interior Tileset_54: -5905979355047389992
+      MP Interior Tileset_55: 3888750645991526835
+      MP Interior Tileset_56: 3629579632138178928
+      MP Interior Tileset_57: -4255992252782837461
+      MP Interior Tileset_58: -8418165680759215701
+      MP Interior Tileset_59: -3684195393954038098
+      MP Interior Tileset_6: -3964025250520470918
+      MP Interior Tileset_60: 4305777573759675755
+      MP Interior Tileset_61: -7422491071731914512
+      MP Interior Tileset_62: -2420981725654106220
+      MP Interior Tileset_63: 5762188451515737885
+      MP Interior Tileset_64: 7890174591684360565
+      MP Interior Tileset_65: 4652447270555251131
+      MP Interior Tileset_66: 802735719751240599
+      MP Interior Tileset_67: -768701631614492780
+      MP Interior Tileset_68: 7733379840224752990
+      MP Interior Tileset_69: -8414519383881341521
+      MP Interior Tileset_7: -7282445090772722269
+      MP Interior Tileset_70: -9016882022150727951
+      MP Interior Tileset_71: 3147973035337081878
+      MP Interior Tileset_72: -5804369054560133460
+      MP Interior Tileset_73: 2585344203879895114
+      MP Interior Tileset_74: -2025429219424151821
+      MP Interior Tileset_75: -1269312352600377715
+      MP Interior Tileset_76: -794446955878383883
+      MP Interior Tileset_77: -6541054045477295976
+      MP Interior Tileset_78: 2726388984482532554
+      MP Interior Tileset_79: -1225466133743558523
+      MP Interior Tileset_8: -7962813954411492030
+      MP Interior Tileset_80: -5506493782476186179
+      MP Interior Tileset_81: 2354185786471853552
+      MP Interior Tileset_82: -4880086979461164406
+      MP Interior Tileset_83: 6986195173711129466
+      MP Interior Tileset_84: -8966381025392253453
+      MP Interior Tileset_85: -8051475473139474348
+      MP Interior Tileset_86: 8688274231355739647
+      MP Interior Tileset_87: -2305643006260172517
+      MP Interior Tileset_88: 2444545346852154893
+      MP Interior Tileset_89: 7482978532818203738
+      MP Interior Tileset_9: 6781767071132933814
+      MP Interior Tileset_90: -1567439399826208464
+      MP Interior Tileset_91: -155169677661371996
+      MP Interior Tileset_92: 5369025152713925218
+      MP Interior Tileset_93: -5784033528523079901
+      MP Interior Tileset_94: 9076877030066690001
+      MP Interior Tileset_95: -8891335029938116053
+      MP Interior Tileset_96: -6084495891366258906
+      MP Interior Tileset_97: -1307981157288818282
+      MP Interior Tileset_98: -3648710895406223261
+      MP Interior Tileset_99: -2837217891502143619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

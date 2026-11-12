@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cf1573ea04d12c3428d6a42224c3895d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4821357361051440456
+    second: Blood Temple Tileset_0
+  - first:
+      213: -4007811318921630498
+    second: Blood Temple Tileset_1
+  - first:
+      213: 3896865213308121618
+    second: Blood Temple Tileset_2
+  - first:
+      213: 4407378108721368003
+    second: Blood Temple Tileset_3
+  - first:
+      213: -5084271380538608282
+    second: Blood Temple Tileset_4
+  - first:
+      213: 6067202483522036052
+    second: Blood Temple Tileset_5
+  - first:
+      213: 5520869265199732935
+    second: Blood Temple Tileset_6
+  - first:
+      213: -741317741402508074
+    second: Blood Temple Tileset_7
+  - first:
+      213: 6419097833685494424
+    second: Blood Temple Tileset_8
+  - first:
+      213: 5451857711122292743
+    second: Blood Temple Tileset_9
+  - first:
+      213: -2418835565092508054
+    second: Blood Temple Tileset_10
+  - first:
+      213: -8083850187216701505
+    second: Blood Temple Tileset_11
+  - first:
+      213: -8808335883266800043
+    second: Blood Temple Tileset_12
+  - first:
+      213: -6482091194916912631
+    second: Blood Temple Tileset_13
+  - first:
+      213: -6189221841578587402
+    second: Blood Temple Tileset_14
+  - first:
+      213: 2251608091239941690
+    second: Blood Temple Tileset_15
+  - first:
+      213: -4024488915745440552
+    second: Blood Temple Tileset_16
+  - first:
+      213: 3217557874472552464
+    second: Blood Temple Tileset_17
+  - first:
+      213: 1949360542348440073
+    second: Blood Temple Tileset_18
+  - first:
+      213: -3467317054140063660
+    second: Blood Temple Tileset_19
+  - first:
+      213: -2880997247114480404
+    second: Blood Temple Tileset_20
+  - first:
+      213: 1951556330763899716
+    second: Blood Temple Tileset_21
+  - first:
+      213: 4686460518093312314
+    second: Blood Temple Tileset_22
+  - first:
+      213: 2097153003616607448
+    second: Blood Temple Tileset_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood Temple Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba60575609171db0800000000000000
+      internalID: -4821357361051440456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce2e8f6d46168c0800000000000000
+      internalID: -4007811318921630498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 223
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212bec8d342741630800000000000000
+      internalID: 3896865213308121618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8b21e9072a2d30800000000000000
+      internalID: 4407378108721368003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 208
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665bf45fd1a0179b0800000000000000
+      internalID: -5084271380538608282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451e2ba6388033450800000000000000
+      internalID: 6067202483522036052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 223
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c81a9b88511e9c40800000000000000
+      internalID: 5520869265199732935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4320e117f46b5f0800000000000000
+      internalID: -741317741402508074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 175
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aad4b4877351950800000000000000
+      internalID: 6419097833685494424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 179
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002b6df3b3e8ab40800000000000000
+      internalID: 5451857711122292743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e649c7ed19e6ed0800000000000000
+      internalID: -2418835565092508054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 175
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb73975b51560df80800000000000000
+      internalID: -8083850187216701505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564e87ce2182c580800000000000000
+      internalID: -8808335883266800043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 135
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024a4dd66cfa06a0800000000000000
+      internalID: -6482091194916912631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 147
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8e98e6877b1aa0800000000000000
+      internalID: -6189221841578587402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3680c321a15f3f10800000000000000
+      internalID: 2251608091239941690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 137
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfe7e57a42628c0800000000000000
+      internalID: -4024488915745440552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0188238e6df07ac20800000000000000
+      internalID: 3217557874472552464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90277d9c5158d0b10800000000000000
+      internalID: 1949360542348440073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 193
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e358828d91efc0800000000000000
+      internalID: -3467317054140063660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4fcd69444a408d0800000000000000
+      internalID: -2880997247114480404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d85e9422551b10800000000000000
+      internalID: 1951556330763899716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3158d2e207a90140800000000000000
+      internalID: 4686460518093312314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood Temple Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc163cab859a1d10800000000000000
+      internalID: 2097153003616607448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood Temple Tileset_0: -4821357361051440456
+      Blood Temple Tileset_1: -4007811318921630498
+      Blood Temple Tileset_10: -2418835565092508054
+      Blood Temple Tileset_11: -8083850187216701505
+      Blood Temple Tileset_12: -8808335883266800043
+      Blood Temple Tileset_13: -6482091194916912631
+      Blood Temple Tileset_14: -6189221841578587402
+      Blood Temple Tileset_15: 2251608091239941690
+      Blood Temple Tileset_16: -4024488915745440552
+      Blood Temple Tileset_17: 3217557874472552464
+      Blood Temple Tileset_18: 1949360542348440073
+      Blood Temple Tileset_19: -3467317054140063660
+      Blood Temple Tileset_2: 3896865213308121618
+      Blood Temple Tileset_20: -2880997247114480404
+      Blood Temple Tileset_21: 1951556330763899716
+      Blood Temple Tileset_22: 4686460518093312314
+      Blood Temple Tileset_23: 2097153003616607448
+      Blood Temple Tileset_3: 4407378108721368003
+      Blood Temple Tileset_4: -5084271380538608282
+      Blood Temple Tileset_5: 6067202483522036052
+      Blood Temple Tileset_6: 5520869265199732935
+      Blood Temple Tileset_7: -741317741402508074
+      Blood Temple Tileset_8: 6419097833685494424
+      Blood Temple Tileset_9: 5451857711122292743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

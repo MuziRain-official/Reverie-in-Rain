@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: d2b3700c7cd2c8c4ebba59e9eef29646
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1099888379614613586
+    second: victorian tileset_0
+  - first:
+      213: -5338392816851284351
+    second: victorian tileset_1
+  - first:
+      213: 8739307914059130910
+    second: victorian tileset_2
+  - first:
+      213: -4925556316990548080
+    second: victorian tileset_3
+  - first:
+      213: 7403761549449531445
+    second: victorian tileset_4
+  - first:
+      213: 8412162258186642548
+    second: victorian tileset_5
+  - first:
+      213: 5459232029322353531
+    second: victorian tileset_6
+  - first:
+      213: 5022892254096087193
+    second: victorian tileset_7
+  - first:
+      213: -7867881634068650436
+    second: victorian tileset_8
+  - first:
+      213: 4327942412104830107
+    second: victorian tileset_9
+  - first:
+      213: 4767472758515063675
+    second: victorian tileset_10
+  - first:
+      213: 2674775886093553418
+    second: victorian tileset_11
+  - first:
+      213: -9044010343316158654
+    second: victorian tileset_12
+  - first:
+      213: -1505299616465198564
+    second: victorian tileset_13
+  - first:
+      213: 5820662870363724131
+    second: victorian tileset_14
+  - first:
+      213: -396939503800975533
+    second: victorian tileset_15
+  - first:
+      213: 7711964305678380603
+    second: victorian tileset_16
+  - first:
+      213: -3841190726301362904
+    second: victorian tileset_17
+  - first:
+      213: 2195635203523981690
+    second: victorian tileset_18
+  - first:
+      213: -4948505574553853598
+    second: victorian tileset_19
+  - first:
+      213: 4718368582662022351
+    second: victorian tileset_20
+  - first:
+      213: 1092970554114876517
+    second: victorian tileset_21
+  - first:
+      213: -7962707484605655863
+    second: victorian tileset_22
+  - first:
+      213: 2975406506653099687
+    second: victorian tileset_23
+  - first:
+      213: -2262807693065571660
+    second: victorian tileset_24
+  - first:
+      213: 5798551531739489713
+    second: victorian tileset_25
+  - first:
+      213: -8223943861651149424
+    second: victorian tileset_26
+  - first:
+      213: -9042412741718903306
+    second: victorian tileset_27
+  - first:
+      213: 15439491351468887
+    second: victorian tileset_28
+  - first:
+      213: 5725893925948521869
+    second: victorian tileset_29
+  - first:
+      213: -7202911670082428227
+    second: victorian tileset_30
+  - first:
+      213: 5021102691697835561
+    second: victorian tileset_31
+  - first:
+      213: -3638471769866129938
+    second: victorian tileset_32
+  - first:
+      213: -1700720617947771090
+    second: victorian tileset_33
+  - first:
+      213: -4767700939595716649
+    second: victorian tileset_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: victorian tileset_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250528f57a6934f00800000000000000
+      internalID: 1099888379614613586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 175
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e051064083ae5b0800000000000000
+      internalID: -5338392816851284351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 159
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e182148be32484970800000000000000
+      internalID: 8739307914059130910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 127
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d89c50a8e4abb0800000000000000
+      internalID: -4925556316990548080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53092a407e17fb660800000000000000
+      internalID: 7403761549449531445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a92811010eb470800000000000000
+      internalID: 8412162258186642548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 127
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b913e3b9613cb40800000000000000
+      internalID: 5459232029322353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998557684e5e4b540800000000000000
+      internalID: 5022892254096087193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 143
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36a482f65bafc290800000000000000
+      internalID: -7867881634068650436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 156
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c0bd181b0ff0c30800000000000000
+      internalID: 4327942412104830107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 127
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b54a7f637792240800000000000000
+      internalID: 4767472758515063675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f03603f76be1520800000000000000
+      internalID: 2674775886093553418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478ead82883d7280800000000000000
+      internalID: -9044010343316158654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126f0869f91c1be0800000000000000
+      internalID: -1505299616465198564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d5599a0627c050800000000000000
+      internalID: 5820662870363724131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 127
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7f96df99cd7af0800000000000000
+      internalID: -396939503800975533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea3702da6660b60800000000000000
+      internalID: 7711964305678380603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825584cc26951bac0800000000000000
+      internalID: -3841190726301362904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 111
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b36aa596787e10800000000000000
+      internalID: 2195635203523981690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2616da3f560635bb0800000000000000
+      internalID: -4948505574553853598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 111
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4eee81a330b7140800000000000000
+      internalID: 4718368582662022351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564aafb9de20b2f00800000000000000
+      internalID: 1092970554114876517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 66
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c45cb12bb7ce7190800000000000000
+      internalID: -7962707484605655863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a1731474ca4920800000000000000
+      internalID: 2975406506653099687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23ecb5464e890e0800000000000000
+      internalID: -2262807693065571660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5212565e7987050800000000000000
+      internalID: 5798551531739489713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 66
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d678151aeaedd80800000000000000
+      internalID: -8223943861651149424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 79
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f0692585e28280800000000000000
+      internalID: -9042412741718903306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5485b22ad63000800000000000000
+      internalID: 15439491351468887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 97
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7ab54036767f40800000000000000
+      internalID: 5725893925948521869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a83caffd1a0c90800000000000000
+      internalID: -7202911670082428227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 47
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e386f8b4a8ea540800000000000000
+      internalID: 5021102691697835561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda7d7e33d818dc0800000000000000
+      internalID: -3638471769866129938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4a09db93d568e0800000000000000
+      internalID: -1700720617947771090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian tileset_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e91c7149b5ddb0800000000000000
+      internalID: -4767700939595716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      victorian tileset_0: 1099888379614613586
+      victorian tileset_1: -5338392816851284351
+      victorian tileset_10: 4767472758515063675
+      victorian tileset_11: 2674775886093553418
+      victorian tileset_12: -9044010343316158654
+      victorian tileset_13: -1505299616465198564
+      victorian tileset_14: 5820662870363724131
+      victorian tileset_15: -396939503800975533
+      victorian tileset_16: 7711964305678380603
+      victorian tileset_17: -3841190726301362904
+      victorian tileset_18: 2195635203523981690
+      victorian tileset_19: -4948505574553853598
+      victorian tileset_2: 8739307914059130910
+      victorian tileset_20: 4718368582662022351
+      victorian tileset_21: 1092970554114876517
+      victorian tileset_22: -7962707484605655863
+      victorian tileset_23: 2975406506653099687
+      victorian tileset_24: -2262807693065571660
+      victorian tileset_25: 5798551531739489713
+      victorian tileset_26: -8223943861651149424
+      victorian tileset_27: -9042412741718903306
+      victorian tileset_28: 15439491351468887
+      victorian tileset_29: 5725893925948521869
+      victorian tileset_3: -4925556316990548080
+      victorian tileset_30: -7202911670082428227
+      victorian tileset_31: 5021102691697835561
+      victorian tileset_32: -3638471769866129938
+      victorian tileset_33: -1700720617947771090
+      victorian tileset_34: -4767700939595716649
+      victorian tileset_4: 7403761549449531445
+      victorian tileset_5: 8412162258186642548
+      victorian tileset_6: 5459232029322353531
+      victorian tileset_7: 5022892254096087193
+      victorian tileset_8: -7867881634068650436
+      victorian tileset_9: 4327942412104830107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

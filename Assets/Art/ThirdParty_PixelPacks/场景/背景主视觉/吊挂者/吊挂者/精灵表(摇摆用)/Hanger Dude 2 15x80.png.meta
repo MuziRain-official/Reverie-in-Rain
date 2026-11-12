@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 252356c567f806040a82b53e31deacff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5320101487269634020
+    second: Hanger Dude 2 15x80_0
+  - first:
+      213: -975110502957814945
+    second: Hanger Dude 2 15x80_1
+  - first:
+      213: -2294768068367664271
+    second: Hanger Dude 2 15x80_2
+  - first:
+      213: -4085138642718410225
+    second: Hanger Dude 2 15x80_3
+  - first:
+      213: -1572934300432200681
+    second: Hanger Dude 2 15x80_4
+  - first:
+      213: -7974760931348517180
+    second: Hanger Dude 2 15x80_5
+  - first:
+      213: 7868585882573143183
+    second: Hanger Dude 2 15x80_6
+  - first:
+      213: 8616794675642165314
+    second: Hanger Dude 2 15x80_7
+  - first:
+      213: 8276182460627387351
+    second: Hanger Dude 2 15x80_8
+  - first:
+      213: -15639673687352139
+    second: Hanger Dude 2 15x80_9
+  - first:
+      213: -8799988915737958459
+    second: Hanger Dude 2 15x80_10
+  - first:
+      213: -2561160690825083165
+    second: Hanger Dude 2 15x80_11
+  - first:
+      213: -6838273009517405654
+    second: Hanger Dude 2 15x80_12
+  - first:
+      213: 475081392165152707
+    second: Hanger Dude 2 15x80_13
+  - first:
+      213: -3851050962809419315
+    second: Hanger Dude 2 15x80_14
+  - first:
+      213: -2602989971766369639
+    second: Hanger Dude 2 15x80_15
+  - first:
+      213: 121734174359408275
+    second: Hanger Dude 2 15x80_16
+  - first:
+      213: 3654642078740457324
+    second: Hanger Dude 2 15x80_17
+  - first:
+      213: -5124073858819310616
+    second: Hanger Dude 2 15x80_18
+  - first:
+      213: 3738740281719934511
+    second: Hanger Dude 2 15x80_19
+  - first:
+      213: -8380245396659235644
+    second: Hanger Dude 2 15x80_20
+  - first:
+      213: 3028681412782902845
+    second: Hanger Dude 2 15x80_21
+  - first:
+      213: 70407438442375928
+    second: Hanger Dude 2 15x80_22
+  - first:
+      213: 1854914162158723
+    second: Hanger Dude 2 15x80_23
+  - first:
+      213: 1885040183389805709
+    second: Hanger Dude 2 15x80_24
+  - first:
+      213: 8596018128562836884
+    second: Hanger Dude 2 15x80_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10244a62e33b26b0800000000000000
+      internalID: -5320101487269634020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b6276f926b772f0800000000000000
+      internalID: -975110502957814945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b390b99985720e0800000000000000
+      internalID: -2294768068367664271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3c866c0cae47c0800000000000000
+      internalID: -4085138642718410225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c06b76690db2ae0800000000000000
+      internalID: -1572934300432200681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceee4e5f25f35190800000000000000
+      internalID: -7974760931348517180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cfc6fab25d23d60800000000000000
+      internalID: 7868585882573143183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248e0209a11059770800000000000000
+      internalID: 8616794675642165314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3830e4918ead270800000000000000
+      internalID: 8276182460627387351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5675bccf68cff0800000000000000
+      internalID: -15639673687352139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7601a94b820e580800000000000000
+      internalID: -8799988915737958459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e64daadbede47cd0800000000000000
+      internalID: -2561160690825083165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad296bde29911a0800000000000000
+      internalID: -6838273009517405654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e6635204d79600800000000000000
+      internalID: 475081392165152707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc981d59d815e8ac0800000000000000
+      internalID: -3851050962809419315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99226f2796250ebd0800000000000000
+      internalID: -2602989971766369639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ec7bb269c70b100800000000000000
+      internalID: 121734174359408275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6725848b95e7b230800000000000000
+      internalID: 3654642078740457324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb53259f1a3e8b0800000000000000
+      internalID: -5124073858819310616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4c5f3a7ca2e330800000000000000
+      internalID: 3738740281719934511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c41681563363bb80800000000000000
+      internalID: -8380245396659235644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec0c2c2b9080a20800000000000000
+      internalID: 3028681412782902845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa27e531332af000800000000000000
+      internalID: 70407438442375928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c69bbd807960000800000000000000
+      internalID: 1854914162158723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c59463f02092a10800000000000000
+      internalID: 1885040183389805709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanger Dude 2 15x80_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955ecbb1f03b4770800000000000000
+      internalID: 8596018128562836884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hanger Dude 2 15x80_0: -5320101487269634020
+      Hanger Dude 2 15x80_1: -975110502957814945
+      Hanger Dude 2 15x80_10: -8799988915737958459
+      Hanger Dude 2 15x80_11: -2561160690825083165
+      Hanger Dude 2 15x80_12: -6838273009517405654
+      Hanger Dude 2 15x80_13: 475081392165152707
+      Hanger Dude 2 15x80_14: -3851050962809419315
+      Hanger Dude 2 15x80_15: -2602989971766369639
+      Hanger Dude 2 15x80_16: 121734174359408275
+      Hanger Dude 2 15x80_17: 3654642078740457324
+      Hanger Dude 2 15x80_18: -5124073858819310616
+      Hanger Dude 2 15x80_19: 3738740281719934511
+      Hanger Dude 2 15x80_2: -2294768068367664271
+      Hanger Dude 2 15x80_20: -8380245396659235644
+      Hanger Dude 2 15x80_21: 3028681412782902845
+      Hanger Dude 2 15x80_22: 70407438442375928
+      Hanger Dude 2 15x80_23: 1854914162158723
+      Hanger Dude 2 15x80_24: 1885040183389805709
+      Hanger Dude 2 15x80_25: 8596018128562836884
+      Hanger Dude 2 15x80_3: -4085138642718410225
+      Hanger Dude 2 15x80_4: -1572934300432200681
+      Hanger Dude 2 15x80_5: -7974760931348517180
+      Hanger Dude 2 15x80_6: 7868585882573143183
+      Hanger Dude 2 15x80_7: 8616794675642165314
+      Hanger Dude 2 15x80_8: 8276182460627387351
+      Hanger Dude 2 15x80_9: -15639673687352139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
